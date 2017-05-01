@@ -1,0 +1,1888 @@
+fileFormatVersion: 2
+guid: a7331d1ed732648e8a63ba8d85cbcdc2
+timeCreated: 1455020489
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: _1_Pane_Awning 4.0 x 9 [262012]
+    100004: _1_Pane_Awning 4.0 x 9 [262171]
+    100006: _1_Pane_Awning 4.0 x 9 [262239]
+    100008: _1_PanelAlum 2.0 x 14c [253480]
+    100010: _1_PanelAlum 2.5 x 14 [260316]
+    100012: _1_PanelAlum 5.5 x 18c [260505]
+    100014: _1_PanelAlum 6.0 x 18 [257191]
+    100016: _2_Pane_Awning 3.5 x 25c [220226]
+    100018: _2_Pane_Awning 4.0 x 25c [248896]
+    100020: _2_Pane_Awning 4.0 x 25c [249037]
+    100022: _2_Pane_Awning 4.0 x 25c [251747]
+    100024: _2_PanelAlum 8.5 x 17 [224910]
+    100026: _2_PanelAlum 8.5 x 25 [218656]
+    100028: _2_PanelAlum 8.5 x 25 [218888]
+    100030: _3D View_ {3D}
+    100032: Basic Roof CustomOrb - 250mm [243630]
+    100034: Basic Roof CustomOrb - 250mm true [242851]
+    100036: Basic Roof CustomOrb - FlatAwning [246716]
+    100038: Basic Wall Brick - 110 [204014]
+    100040: Basic Wall Brick - 110 [204104]
+    100042: Basic Wall Brick - 110 [204216]
+    100044: Basic Wall Brick - 110 [204307]
+    100046: Basic Wall Brick - 110 [204381]
+    100048: Basic Wall Brick - 110 [204468]
+    100050: Basic Wall Brick - 110 [204549]
+    100052: Basic Wall Brick - 110 [204611]
+    100054: Basic Wall Brick Pier- 370 [204960]
+    100056: Basic Wall Brick Pier- 370 [205030]
+    100058: Basic Wall Brick Pier- 370 [205093]
+    100060: Basic Wall Double brick - 230 Rendered [203930]
+    100062: Basic Wall Double brick - 230 Rendered [203934]
+    100064: Basic Wall Double brick - 230 Rendered [203943]
+    100066: Basic Wall Double brick - 230 Rendered [203947]
+    100068: Basic Wall Double brick - 230 Rendered [203951]
+    100070: Basic Wall Double brick - 230 Rendered [204001]
+    100072: Basic Wall Double brick - 230 Rendered [204005]
+    100074: Basic Wall Double brick - 230 Rendered [204825]
+    100076: Basic Wall Double brick - 250 [203875]
+    100078: Basic Wall Double brick - 250 [203889]
+    100080: Basic Wall Double brick - 250 [203898]
+    100082: Basic Wall Double brick - 250 [203902]
+    100084: Basic Wall Double brick - 250 [203906]
+    100086: Basic Wall Fence [266487]
+    100088: Basic Wall Fence [266491]
+    100090: Basic Wall Fence [266495]
+    100092: Basic Wall Generic 100mm Wall [205382]
+    100094: Basic Wall Generic 100mm Wall [205391]
+    100096: Basic Wall Generic 100mm Wall [205399]
+    100098: Basic Wall Generic 100mm Wall [205439]
+    100100: Basic Wall Generic 100mm Wall [205443]
+    100102: Basic Wall Generic 100mm Wall [205447]
+    100104: Basic Wall Generic 100mm Wall [205451]
+    100106: Basic Wall Generic 100mm Wall [205455]
+    100108: Basic Wall Generic 100mm Wall [205459]
+    100110: Basic Wall Generic 100mm Wall [205463]
+    100112: Basic Wall Generic 100mm Wall [205467]
+    100114: Basic Wall Generic 100mm Wall [205509]
+    100116: Basic Wall Generic 100mm Wall [205513]
+    100118: Basic Wall Generic 100mm Wall [205517]
+    100120: Basic Wall Generic 100mm Wall [205521]
+    100122: Basic Wall Generic 100mm Wall [205525]
+    100124: Basic Wall Generic 100mm Wall [205529]
+    100126: Basic Wall Generic 100mm Wall [205533]
+    100128: Basic Wall Generic 100mm Wall [205537]
+    100130: Basic Wall Generic 100mm Wall [205652]
+    100132: Basic Wall Generic 100mm Wall [205798]
+    100134: Basic Wall Generic 100mm Wall [207104]
+    100136: Basic Wall Generic 100mm Wall [207189]
+    100138: CHS-Circular Hollow Section-Column 139.7x3.2CHS [246372]
+    100140: CHS-Circular Hollow Section-Column 139.7x3.2CHS [246548]
+    100142: Compass001
+    100144: Compound Ceiling Plain [263827]
+    100146: Compound Ceiling Plain [263869]
+    100148: Compound Ceiling Plain [263935]
+    100150: Compound Ceiling Plain [263943]
+    100152: Compound Ceiling Plain [263967]
+    100154: Compound Ceiling Plain [263998]
+    100156: Compound Ceiling Plain [264012]
+    100158: Compound Ceiling Plain [264020]
+    100160: Compound Ceiling Plain [264028]
+    100162: Compound Ceiling Plain [264054]
+    100164: Compound Ceiling Plain [264091]
+    100166: Compound Ceiling Plain [264214]
+    100168: Compound Ceiling Plain [264304]
+    100170: Compound Ceiling Plain [264349]
+    100172: Fascia Fascia [259487]
+    100174: Fascia Fascia [259497]
+    100176: Fascia Fascia [259578]
+    100178: Fascia Fascia [259606]
+    100180: FixedAlum 10.5 x 8 [240480]
+    100182: FixedAlum 6.0 x 8 [231591]
+    100184: Floor Generic 100 [208222]
+    100186: Floor Generic 100 [262375]
+    100188: Floor Generic 150mm [260195]
+    100190: Gutter Gutter [259483]
+    100192: Gutter Gutter [259484]
+    100194: Gutter Gutter [259485]
+    100196: //RootNode
+    100198: M_Single-Flush 0720 x 2040mm [207252]
+    100200: M_Single-Flush 0720 x 2040mm [207351]
+    100202: M_Single-Flush 0720 x 2040mm [208086]
+    100204: M_Single-Flush 0820 x 2040mm [207538]
+    100206: M_Single-Flush 0820 x 2040mm [207643]
+    100208: M_Single-Flush 0820 x 2040mm [207702]
+    100210: M_Single-Flush 0820 x 2040mm [207754]
+    100212: M_Single-Flush 0820 x 2040mm [207814]
+    100214: M_Single-Flush 0820 x 2040mm [207953]
+    100216: M_Single-Flush 0820 x 2040mm [207998]
+    100218: Single-Glass 1 1200 x 2143mm [209148]
+    100220: Sky002
+    100222: Sliding Door - 4 Panel (AUS) Type 1 [221516]
+    100224: Sun002
+    100226: SunAndSky-002
+    100228: Basic Wall Plaster [268124]
+    100230: Basic Wall Plaster [268130]
+    100232: Basic Wall Plaster [268135]
+    100234: Basic Wall Plaster [268147]
+    100236: Basic Wall Plaster [268154]
+    100238: Floor carpet [268487]
+    100240: Floor carpet [268521]
+    100242: Floor carpet [269141]
+    100244: Floor carpet [269394]
+    100246: Floor carpet [269441]
+    100248: Floor Tiling1 [268216]
+    100250: Floor Tiling1 [268297]
+    100252: Basic Wall Plaster [271699]
+    100254: Basic Wall Plaster [271812]
+    100256: Basic Wall Plaster [271819]
+    100258: Basic Wall Plaster [271825]
+    100260: Basic Wall Plaster [271830]
+    100262: Basic Wall Plaster [271835]
+    100264: Basic Wall Plaster [271860]
+    100266: M_Single-Flush 0820 x 2040mm [272914]
+    100268: Mirror-Ellipse 600 x 1200mm [279458]
+    100270: Mirror-Ellipse 600 x 1200mm [279860]
+    100272: Shower Stall - Rectangular 890 mmx900 mm [276753]
+    100274: Sink Vanity-Round 482 x 482mm [275651]
+    100276: Sink Vanity-Round 482 x 482mm [275710]
+    100278: Toilet-Domestic-3D Toilet-Domestic-3D [274572]
+    100280: Toilet-Domestic-3D Toilet-Domestic-3D [274859]
+    100282: Tub-Free Standing-3D 760 x 1525mm [273575]
+    100284: Vanity Cabinet-Double Door & 4 Drawer 1380mm [277894]
+    100286: Vanity Cabinet-Double Door & 4 Drawer 1380mm [278170]
+    100288: Sink Vanity-Round 482 x 482mm [280963]
+    100290: Vanity Cabinet-Double Door & 4 Drawer 1380mm [280964]
+    100292: VanityBench VanityBench [280615]
+    100294: VanityBench VanityBench [280965]
+    100296: Basic Wall Double brick - 250 [286303]
+    100298: Basic Wall Double brick - 250 [286790]
+    100300: Basic Wall Generic 100mm Wall [287524]
+    100302: Basic Wall Generic 100mm Wall [287570]
+    100304: Basic Wall Generic 100mm Wall [287586]
+    100306: Basic Wall Generic 100mm Wall [287668]
+    100308: Basic Wall Generic 100mm Wall [287739]
+    100310: Basic Wall Plaster-bathrm [286237]
+    100312: Basic Wall Plaster-bathrm [286433]
+    100314: Basic Wall Plaster-bed1 [286854]
+    100316: Basic Wall Plaster-bed2 [268147]
+    100318: Basic Wall Plaster-bed2 [271812]
+    100320: Basic Wall Plaster-bed3 [268135]
+    100322: Basic Wall Plaster-bed3 [268154]
+    100324: Basic Wall Plaster-bed3 [286143]
+    100326: Basic Wall Plaster-ensuite [286946]
+    100328: Basic Wall Plaster-ensuite [287168]
+    100330: Basic Wall Plaster-family [268124]
+    100332: Basic Wall Plaster-family [287123]
+    100334: Basic Wall Plaster-family [287483]
+    100336: Basic Wall Plaster-laundry [268130]
+    100338: Basic Wall Plaster-laundry [287051]
+    100340: Basic Wall Plaster-laundry [288292]
+    100342: Basic Wall Plaster-media [287498]
+    100344: Floor bathrm-tiling [269141]
+    100346: Floor bed1-carpet [269394]
+    100348: Floor bed2-carpet [268521]
+    100350: Floor ensuite-tiles [269441]
+    100352: Floor family-tiling [268216]
+    100354: Floor laundry-tiling [285460]
+    100356: Floor media-carpet [268487]
+    100358: Floor passage-tiling [268297]
+    100360: Mirror-Rect 1200 x 1380 [282247]
+    100362: Mirror-Rect 1200 x 1380 [283302]
+    100364: SHOWER SHOWER [285149]
+    100366: W001
+    100368: W002
+    100370: W003
+    100372: W004
+    100374: W005
+    100376: W006
+    100378: W007
+    100380: W008
+    100382: W009
+    100384: W010
+    100386: W011
+    100388: W012
+    100390: W013
+    100392: W014
+    100394: W015
+    100396: W016
+    100398: W017
+    100400: W018
+    100402: W019
+    100404: W020
+    100406: W021
+    100408: W022
+    100410: W023
+    100412: W024
+    100414: W025
+    100416: W026
+    100418: W027
+    100420: W028
+    100422: W029
+    100424: W030
+    100426: W031
+    100428: W032
+    100430: W033
+    100432: W034
+    100434: W035
+    100436: W036
+    100438: W037
+    100440: W038
+    100442: W039
+    100444: W040
+    100446: W041
+    100448: W042
+    100450: W043
+    100452: W044
+    100454: W045
+    100456: W046
+    100458: W047
+    100460: W048
+    100462: W049
+    100464: Compound Ceiling Plain [290974]
+    100466: Floor grano [291190]
+    100468: _2_Pane_Awning 4.0 x 25c [220226]
+    100470: Basic Wall Plaster [327774]
+    100472: BoxGutter_linebased 110 x 180 x 150 [353689]
+    100474: C-Channel 250 TFC [347075]
+    100476: C-Channel 250 TFC [347894]
+    100478: C-Channel 250 TFC [348270]
+    100480: Compound Ceiling Plain [327519]
+    100482: Cornice-LineBased Cornice-LineBased [342720]
+    100484: Cornice-LineBased Cornice-LineBased [344929]
+    100486: Cornice-LineBased Cornice-LineBased [345097]
+    100488: Cornice-LineBased Cornice-LineBased [345204]
+    100490: Gutter Gutter [351860]
+    100492: Wall Sweep Cornice [331447]
+    100494: Wall Sweep Cornice [331468]
+    100496: Wall Sweep Cornice [332064]
+    100498: Wall Sweep Cornice [332324]
+    100500: Wall Sweep Cornice [332325]
+    100502: Wall Sweep Cornice [332326]
+    100504: Wall Sweep Cornice [332327]
+    100506: Wall Sweep Cornice [332328]
+    100508: Wall Sweep Cornice [332329]
+    100510: Wall Sweep Cornice [332331]
+    100512: Wall Sweep Cornice [332332]
+    100514: Wall Sweep Cornice [332333]
+    100516: Wall Sweep Cornice [332532]
+    100518: Wall Sweep Cornice [332576]
+    100520: Wall Sweep Cornice [343887]
+    100522: Wall Sweep Cornice [344197]
+    100524: Wall Sweep Skirting [348823]
+    100526: Wall Sweep Skirting [349227]
+    100528: Wall Sweep Skirting [349539]
+    100530: Wall Sweep Skirting [349540]
+    100532: Wall Sweep Skirting [349559]
+    100534: Wall Sweep Skirting [349560]
+    100536: Wall Sweep Skirting [349769]
+    100538: Wall Sweep Skirting [349770]
+    100540: Basic Wall Double brick - 250 [357782]
+    100542: Basic Wall Double brick - 250 [359693]
+    100544: Basic Wall Generic 100mm Wall [358367]
+    100546: Basic Wall Generic 100mm Wall [367216]
+    100548: Basic Wall Plaster-ensuite [286854]
+    100550: Sliding Door - 4 Panel (AUS) 3840w [221516]
+    100552: Wall Sweep Cornice [361677]
+    100554: Wall Sweep Cornice [362124]
+    100556: Wall Sweep Cornice [367120]
+    100558: Wall Sweep Skirting [359785]
+    100560: Wall Sweep Skirting [362334]
+    100562: Wall Sweep Skirting [362529]
+    100564: Wall Sweep Skirting [362530]
+    100566: Wall Sweep Skirting [364194]
+    100568: Wall Sweep Skirting [365446]
+    100570: Wall Sweep Skirting Tile [365391]
+    100572: M_Single-Flush 0720 x 2040mm [367730]
+    100574: Wall Sweep Skirting Tile [365446]
+    100576: _3D View_ SECTION1
+    100578: Basic Wall Generic 100mm Wall [378398]
+    100580: Basic Wall Generic 100mm Wall [379971]
+    100582: Basic Wall Generic 100mm Wall [380482]
+    100584: Overhead-Sectional 5800 x 2600 x 1981mm 2 [390735]
+    100586: Wall Sweep Cornice [380627]
+    100588: Wall Sweep Cornice [380715]
+    100590: Wall Sweep Skirting [380809]
+    100592: Wall Sweep Skirting Tile [380871]
+    100594: Wall Sweep Skirting Tile [380993]
+    100596: Basic Wall Generic 100mm Wall [380334]
+    100598: Robe sliders 1820 x 2143mm [384608]
+    100600: Robe sliders 1820 x 2143mm [384656]
+    100602: TiltaDoor-Overhead-Sectional 4800 x 2143 [381571]
+    100604: Wall Sweep Cornice [380488]
+    100606: Wall Sweep Cornice [380560]
+    100608: Wall Sweep Cornice [380615]
+    100610: Wall Sweep Skirting [380406]
+    100612: Wall Sweep Skirting Tile [380130]
+    100614: _3D View_ walls
+    100616: Single_slider 870 x 2040 [389808]
+    100618: Wall Sweep Skirting Tile [405069]
+    100620: Wall Sweep Skirting Tile [405167]
+    400000: ' 1'
+    400002: _1_Pane_Awning 4.0 x 9 [262012]
+    400004: _1_Pane_Awning 4.0 x 9 [262171]
+    400006: _1_Pane_Awning 4.0 x 9 [262239]
+    400008: _1_PanelAlum 2.0 x 14c [253480]
+    400010: _1_PanelAlum 2.5 x 14 [260316]
+    400012: _1_PanelAlum 5.5 x 18c [260505]
+    400014: _1_PanelAlum 6.0 x 18 [257191]
+    400016: _2_Pane_Awning 3.5 x 25c [220226]
+    400018: _2_Pane_Awning 4.0 x 25c [248896]
+    400020: _2_Pane_Awning 4.0 x 25c [249037]
+    400022: _2_Pane_Awning 4.0 x 25c [251747]
+    400024: _2_PanelAlum 8.5 x 17 [224910]
+    400026: _2_PanelAlum 8.5 x 25 [218656]
+    400028: _2_PanelAlum 8.5 x 25 [218888]
+    400030: _3D View_ {3D}
+    400032: Basic Roof CustomOrb - 250mm [243630]
+    400034: Basic Roof CustomOrb - 250mm true [242851]
+    400036: Basic Roof CustomOrb - FlatAwning [246716]
+    400038: Basic Wall Brick - 110 [204014]
+    400040: Basic Wall Brick - 110 [204104]
+    400042: Basic Wall Brick - 110 [204216]
+    400044: Basic Wall Brick - 110 [204307]
+    400046: Basic Wall Brick - 110 [204381]
+    400048: Basic Wall Brick - 110 [204468]
+    400050: Basic Wall Brick - 110 [204549]
+    400052: Basic Wall Brick - 110 [204611]
+    400054: Basic Wall Brick Pier- 370 [204960]
+    400056: Basic Wall Brick Pier- 370 [205030]
+    400058: Basic Wall Brick Pier- 370 [205093]
+    400060: Basic Wall Double brick - 230 Rendered [203930]
+    400062: Basic Wall Double brick - 230 Rendered [203934]
+    400064: Basic Wall Double brick - 230 Rendered [203943]
+    400066: Basic Wall Double brick - 230 Rendered [203947]
+    400068: Basic Wall Double brick - 230 Rendered [203951]
+    400070: Basic Wall Double brick - 230 Rendered [204001]
+    400072: Basic Wall Double brick - 230 Rendered [204005]
+    400074: Basic Wall Double brick - 230 Rendered [204825]
+    400076: Basic Wall Double brick - 250 [203875]
+    400078: Basic Wall Double brick - 250 [203889]
+    400080: Basic Wall Double brick - 250 [203898]
+    400082: Basic Wall Double brick - 250 [203902]
+    400084: Basic Wall Double brick - 250 [203906]
+    400086: Basic Wall Fence [266487]
+    400088: Basic Wall Fence [266491]
+    400090: Basic Wall Fence [266495]
+    400092: Basic Wall Generic 100mm Wall [205382]
+    400094: Basic Wall Generic 100mm Wall [205391]
+    400096: Basic Wall Generic 100mm Wall [205399]
+    400098: Basic Wall Generic 100mm Wall [205439]
+    400100: Basic Wall Generic 100mm Wall [205443]
+    400102: Basic Wall Generic 100mm Wall [205447]
+    400104: Basic Wall Generic 100mm Wall [205451]
+    400106: Basic Wall Generic 100mm Wall [205455]
+    400108: Basic Wall Generic 100mm Wall [205459]
+    400110: Basic Wall Generic 100mm Wall [205463]
+    400112: Basic Wall Generic 100mm Wall [205467]
+    400114: Basic Wall Generic 100mm Wall [205509]
+    400116: Basic Wall Generic 100mm Wall [205513]
+    400118: Basic Wall Generic 100mm Wall [205517]
+    400120: Basic Wall Generic 100mm Wall [205521]
+    400122: Basic Wall Generic 100mm Wall [205525]
+    400124: Basic Wall Generic 100mm Wall [205529]
+    400126: Basic Wall Generic 100mm Wall [205533]
+    400128: Basic Wall Generic 100mm Wall [205537]
+    400130: Basic Wall Generic 100mm Wall [205652]
+    400132: Basic Wall Generic 100mm Wall [205798]
+    400134: Basic Wall Generic 100mm Wall [207104]
+    400136: Basic Wall Generic 100mm Wall [207189]
+    400138: CHS-Circular Hollow Section-Column 139.7x3.2CHS [246372]
+    400140: CHS-Circular Hollow Section-Column 139.7x3.2CHS [246548]
+    400142: Compass001
+    400144: Compound Ceiling Plain [263827]
+    400146: Compound Ceiling Plain [263869]
+    400148: Compound Ceiling Plain [263935]
+    400150: Compound Ceiling Plain [263943]
+    400152: Compound Ceiling Plain [263967]
+    400154: Compound Ceiling Plain [263998]
+    400156: Compound Ceiling Plain [264012]
+    400158: Compound Ceiling Plain [264020]
+    400160: Compound Ceiling Plain [264028]
+    400162: Compound Ceiling Plain [264054]
+    400164: Compound Ceiling Plain [264091]
+    400166: Compound Ceiling Plain [264214]
+    400168: Compound Ceiling Plain [264304]
+    400170: Compound Ceiling Plain [264349]
+    400172: Fascia Fascia [259487]
+    400174: Fascia Fascia [259497]
+    400176: Fascia Fascia [259578]
+    400178: Fascia Fascia [259606]
+    400180: FixedAlum 10.5 x 8 [240480]
+    400182: FixedAlum 6.0 x 8 [231591]
+    400184: Floor Generic 100 [208222]
+    400186: Floor Generic 100 [262375]
+    400188: Floor Generic 150mm [260195]
+    400190: Gutter Gutter [259483]
+    400192: Gutter Gutter [259484]
+    400194: Gutter Gutter [259485]
+    400196: //RootNode
+    400198: M_Single-Flush 0720 x 2040mm [207252]
+    400200: M_Single-Flush 0720 x 2040mm [207351]
+    400202: M_Single-Flush 0720 x 2040mm [208086]
+    400204: M_Single-Flush 0820 x 2040mm [207538]
+    400206: M_Single-Flush 0820 x 2040mm [207643]
+    400208: M_Single-Flush 0820 x 2040mm [207702]
+    400210: M_Single-Flush 0820 x 2040mm [207754]
+    400212: M_Single-Flush 0820 x 2040mm [207814]
+    400214: M_Single-Flush 0820 x 2040mm [207953]
+    400216: M_Single-Flush 0820 x 2040mm [207998]
+    400218: Single-Glass 1 1200 x 2143mm [209148]
+    400220: Sky002
+    400222: Sliding Door - 4 Panel (AUS) Type 1 [221516]
+    400224: Sun002
+    400226: SunAndSky-002
+    400228: Basic Wall Plaster [268124]
+    400230: Basic Wall Plaster [268130]
+    400232: Basic Wall Plaster [268135]
+    400234: Basic Wall Plaster [268147]
+    400236: Basic Wall Plaster [268154]
+    400238: Floor carpet [268487]
+    400240: Floor carpet [268521]
+    400242: Floor carpet [269141]
+    400244: Floor carpet [269394]
+    400246: Floor carpet [269441]
+    400248: Floor Tiling1 [268216]
+    400250: Floor Tiling1 [268297]
+    400252: Basic Wall Plaster [271699]
+    400254: Basic Wall Plaster [271812]
+    400256: Basic Wall Plaster [271819]
+    400258: Basic Wall Plaster [271825]
+    400260: Basic Wall Plaster [271830]
+    400262: Basic Wall Plaster [271835]
+    400264: Basic Wall Plaster [271860]
+    400266: M_Single-Flush 0820 x 2040mm [272914]
+    400268: Mirror-Ellipse 600 x 1200mm [279458]
+    400270: Mirror-Ellipse 600 x 1200mm [279860]
+    400272: Shower Stall - Rectangular 890 mmx900 mm [276753]
+    400274: Sink Vanity-Round 482 x 482mm [275651]
+    400276: Sink Vanity-Round 482 x 482mm [275710]
+    400278: Toilet-Domestic-3D Toilet-Domestic-3D [274572]
+    400280: Toilet-Domestic-3D Toilet-Domestic-3D [274859]
+    400282: Tub-Free Standing-3D 760 x 1525mm [273575]
+    400284: Vanity Cabinet-Double Door & 4 Drawer 1380mm [277894]
+    400286: Vanity Cabinet-Double Door & 4 Drawer 1380mm [278170]
+    400288: Sink Vanity-Round 482 x 482mm [280963]
+    400290: Vanity Cabinet-Double Door & 4 Drawer 1380mm [280964]
+    400292: VanityBench VanityBench [280615]
+    400294: VanityBench VanityBench [280965]
+    400296: Basic Wall Double brick - 250 [286303]
+    400298: Basic Wall Double brick - 250 [286790]
+    400300: Basic Wall Generic 100mm Wall [287524]
+    400302: Basic Wall Generic 100mm Wall [287570]
+    400304: Basic Wall Generic 100mm Wall [287586]
+    400306: Basic Wall Generic 100mm Wall [287668]
+    400308: Basic Wall Generic 100mm Wall [287739]
+    400310: Basic Wall Plaster-bathrm [286237]
+    400312: Basic Wall Plaster-bathrm [286433]
+    400314: Basic Wall Plaster-bed1 [286854]
+    400316: Basic Wall Plaster-bed2 [268147]
+    400318: Basic Wall Plaster-bed2 [271812]
+    400320: Basic Wall Plaster-bed3 [268135]
+    400322: Basic Wall Plaster-bed3 [268154]
+    400324: Basic Wall Plaster-bed3 [286143]
+    400326: Basic Wall Plaster-ensuite [286946]
+    400328: Basic Wall Plaster-ensuite [287168]
+    400330: Basic Wall Plaster-family [268124]
+    400332: Basic Wall Plaster-family [287123]
+    400334: Basic Wall Plaster-family [287483]
+    400336: Basic Wall Plaster-laundry [268130]
+    400338: Basic Wall Plaster-laundry [287051]
+    400340: Basic Wall Plaster-laundry [288292]
+    400342: Basic Wall Plaster-media [287498]
+    400344: Floor bathrm-tiling [269141]
+    400346: Floor bed1-carpet [269394]
+    400348: Floor bed2-carpet [268521]
+    400350: Floor ensuite-tiles [269441]
+    400352: Floor family-tiling [268216]
+    400354: Floor laundry-tiling [285460]
+    400356: Floor media-carpet [268487]
+    400358: Floor passage-tiling [268297]
+    400360: Mirror-Rect 1200 x 1380 [282247]
+    400362: Mirror-Rect 1200 x 1380 [283302]
+    400364: SHOWER SHOWER [285149]
+    400366: W001
+    400368: W002
+    400370: W003
+    400372: W004
+    400374: W005
+    400376: W006
+    400378: W007
+    400380: W008
+    400382: W009
+    400384: W010
+    400386: W011
+    400388: W012
+    400390: W013
+    400392: W014
+    400394: W015
+    400396: W016
+    400398: W017
+    400400: W018
+    400402: W019
+    400404: W020
+    400406: W021
+    400408: W022
+    400410: W023
+    400412: W024
+    400414: W025
+    400416: W026
+    400418: W027
+    400420: W028
+    400422: W029
+    400424: W030
+    400426: W031
+    400428: W032
+    400430: W033
+    400432: W034
+    400434: W035
+    400436: W036
+    400438: W037
+    400440: W038
+    400442: W039
+    400444: W040
+    400446: W041
+    400448: W042
+    400450: W043
+    400452: W044
+    400454: W045
+    400456: W046
+    400458: W047
+    400460: W048
+    400462: W049
+    400464: Compound Ceiling Plain [290974]
+    400466: Floor grano [291190]
+    400468: _2_Pane_Awning 4.0 x 25c [220226]
+    400470: Basic Wall Plaster [327774]
+    400472: BoxGutter_linebased 110 x 180 x 150 [353689]
+    400474: C-Channel 250 TFC [347075]
+    400476: C-Channel 250 TFC [347894]
+    400478: C-Channel 250 TFC [348270]
+    400480: Compound Ceiling Plain [327519]
+    400482: Cornice-LineBased Cornice-LineBased [342720]
+    400484: Cornice-LineBased Cornice-LineBased [344929]
+    400486: Cornice-LineBased Cornice-LineBased [345097]
+    400488: Cornice-LineBased Cornice-LineBased [345204]
+    400490: Gutter Gutter [351860]
+    400492: Wall Sweep Cornice [331447]
+    400494: Wall Sweep Cornice [331468]
+    400496: Wall Sweep Cornice [332064]
+    400498: Wall Sweep Cornice [332324]
+    400500: Wall Sweep Cornice [332325]
+    400502: Wall Sweep Cornice [332326]
+    400504: Wall Sweep Cornice [332327]
+    400506: Wall Sweep Cornice [332328]
+    400508: Wall Sweep Cornice [332329]
+    400510: Wall Sweep Cornice [332331]
+    400512: Wall Sweep Cornice [332332]
+    400514: Wall Sweep Cornice [332333]
+    400516: Wall Sweep Cornice [332532]
+    400518: Wall Sweep Cornice [332576]
+    400520: Wall Sweep Cornice [343887]
+    400522: Wall Sweep Cornice [344197]
+    400524: Wall Sweep Skirting [348823]
+    400526: Wall Sweep Skirting [349227]
+    400528: Wall Sweep Skirting [349539]
+    400530: Wall Sweep Skirting [349540]
+    400532: Wall Sweep Skirting [349559]
+    400534: Wall Sweep Skirting [349560]
+    400536: Wall Sweep Skirting [349769]
+    400538: Wall Sweep Skirting [349770]
+    400540: Basic Wall Double brick - 250 [357782]
+    400542: Basic Wall Double brick - 250 [359693]
+    400544: Basic Wall Generic 100mm Wall [358367]
+    400546: Basic Wall Generic 100mm Wall [367216]
+    400548: Basic Wall Plaster-ensuite [286854]
+    400550: Sliding Door - 4 Panel (AUS) 3840w [221516]
+    400552: Wall Sweep Cornice [361677]
+    400554: Wall Sweep Cornice [362124]
+    400556: Wall Sweep Cornice [367120]
+    400558: Wall Sweep Skirting [359785]
+    400560: Wall Sweep Skirting [362334]
+    400562: Wall Sweep Skirting [362529]
+    400564: Wall Sweep Skirting [362530]
+    400566: Wall Sweep Skirting [364194]
+    400568: Wall Sweep Skirting [365446]
+    400570: Wall Sweep Skirting Tile [365391]
+    400572: M_Single-Flush 0720 x 2040mm [367730]
+    400574: Wall Sweep Skirting Tile [365446]
+    400576: _3D View_ SECTION1
+    400578: Basic Wall Generic 100mm Wall [378398]
+    400580: Basic Wall Generic 100mm Wall [379971]
+    400582: Basic Wall Generic 100mm Wall [380482]
+    400584: Overhead-Sectional 5800 x 2600 x 1981mm 2 [390735]
+    400586: Wall Sweep Cornice [380627]
+    400588: Wall Sweep Cornice [380715]
+    400590: Wall Sweep Skirting [380809]
+    400592: Wall Sweep Skirting Tile [380871]
+    400594: Wall Sweep Skirting Tile [380993]
+    400596: Basic Wall Generic 100mm Wall [380334]
+    400598: Robe sliders 1820 x 2143mm [384608]
+    400600: Robe sliders 1820 x 2143mm [384656]
+    400602: TiltaDoor-Overhead-Sectional 4800 x 2143 [381571]
+    400604: Wall Sweep Cornice [380488]
+    400606: Wall Sweep Cornice [380560]
+    400608: Wall Sweep Cornice [380615]
+    400610: Wall Sweep Skirting [380406]
+    400612: Wall Sweep Skirting Tile [380130]
+    400614: _3D View_ walls
+    400616: Single_slider 870 x 2040 [389808]
+    400618: Wall Sweep Skirting Tile [405069]
+    400620: Wall Sweep Skirting Tile [405167]
+    2300000: _1_Pane_Awning 4.0 x 9 [262012]
+    2300002: _1_Pane_Awning 4.0 x 9 [262171]
+    2300004: _1_Pane_Awning 4.0 x 9 [262239]
+    2300006: _1_PanelAlum 2.0 x 14c [253480]
+    2300008: _1_PanelAlum 2.5 x 14 [260316]
+    2300010: _1_PanelAlum 5.5 x 18c [260505]
+    2300012: _1_PanelAlum 6.0 x 18 [257191]
+    2300014: _2_Pane_Awning 3.5 x 25c [220226]
+    2300016: _2_Pane_Awning 4.0 x 25c [248896]
+    2300018: _2_Pane_Awning 4.0 x 25c [249037]
+    2300020: _2_Pane_Awning 4.0 x 25c [251747]
+    2300022: _2_PanelAlum 8.5 x 17 [224910]
+    2300024: _2_PanelAlum 8.5 x 25 [218656]
+    2300026: _2_PanelAlum 8.5 x 25 [218888]
+    2300028: Basic Roof CustomOrb - 250mm [243630]
+    2300030: Basic Roof CustomOrb - 250mm true [242851]
+    2300032: Basic Roof CustomOrb - FlatAwning [246716]
+    2300034: Basic Wall Brick - 110 [204014]
+    2300036: Basic Wall Brick - 110 [204104]
+    2300038: Basic Wall Brick - 110 [204216]
+    2300040: Basic Wall Brick - 110 [204307]
+    2300042: Basic Wall Brick - 110 [204381]
+    2300044: Basic Wall Brick - 110 [204468]
+    2300046: Basic Wall Brick - 110 [204549]
+    2300048: Basic Wall Brick - 110 [204611]
+    2300050: Basic Wall Brick Pier- 370 [204960]
+    2300052: Basic Wall Brick Pier- 370 [205030]
+    2300054: Basic Wall Brick Pier- 370 [205093]
+    2300056: Basic Wall Double brick - 230 Rendered [203930]
+    2300058: Basic Wall Double brick - 230 Rendered [203934]
+    2300060: Basic Wall Double brick - 230 Rendered [203943]
+    2300062: Basic Wall Double brick - 230 Rendered [203947]
+    2300064: Basic Wall Double brick - 230 Rendered [203951]
+    2300066: Basic Wall Double brick - 230 Rendered [204001]
+    2300068: Basic Wall Double brick - 230 Rendered [204005]
+    2300070: Basic Wall Double brick - 230 Rendered [204825]
+    2300072: Basic Wall Double brick - 250 [203875]
+    2300074: Basic Wall Double brick - 250 [203889]
+    2300076: Basic Wall Double brick - 250 [203898]
+    2300078: Basic Wall Double brick - 250 [203902]
+    2300080: Basic Wall Double brick - 250 [203906]
+    2300082: Basic Wall Fence [266487]
+    2300084: Basic Wall Fence [266491]
+    2300086: Basic Wall Fence [266495]
+    2300088: Basic Wall Generic 100mm Wall [205382]
+    2300090: Basic Wall Generic 100mm Wall [205391]
+    2300092: Basic Wall Generic 100mm Wall [205399]
+    2300094: Basic Wall Generic 100mm Wall [205439]
+    2300096: Basic Wall Generic 100mm Wall [205443]
+    2300098: Basic Wall Generic 100mm Wall [205447]
+    2300100: Basic Wall Generic 100mm Wall [205451]
+    2300102: Basic Wall Generic 100mm Wall [205455]
+    2300104: Basic Wall Generic 100mm Wall [205459]
+    2300106: Basic Wall Generic 100mm Wall [205463]
+    2300108: Basic Wall Generic 100mm Wall [205467]
+    2300110: Basic Wall Generic 100mm Wall [205509]
+    2300112: Basic Wall Generic 100mm Wall [205513]
+    2300114: Basic Wall Generic 100mm Wall [205517]
+    2300116: Basic Wall Generic 100mm Wall [205521]
+    2300118: Basic Wall Generic 100mm Wall [205525]
+    2300120: Basic Wall Generic 100mm Wall [205529]
+    2300122: Basic Wall Generic 100mm Wall [205533]
+    2300124: Basic Wall Generic 100mm Wall [205537]
+    2300126: Basic Wall Generic 100mm Wall [205652]
+    2300128: Basic Wall Generic 100mm Wall [205798]
+    2300130: Basic Wall Generic 100mm Wall [207104]
+    2300132: Basic Wall Generic 100mm Wall [207189]
+    2300134: CHS-Circular Hollow Section-Column 139.7x3.2CHS [246372]
+    2300136: CHS-Circular Hollow Section-Column 139.7x3.2CHS [246548]
+    2300138: Compound Ceiling Plain [263827]
+    2300140: Compound Ceiling Plain [263869]
+    2300142: Compound Ceiling Plain [263935]
+    2300144: Compound Ceiling Plain [263943]
+    2300146: Compound Ceiling Plain [263967]
+    2300148: Compound Ceiling Plain [263998]
+    2300150: Compound Ceiling Plain [264012]
+    2300152: Compound Ceiling Plain [264020]
+    2300154: Compound Ceiling Plain [264028]
+    2300156: Compound Ceiling Plain [264054]
+    2300158: Compound Ceiling Plain [264091]
+    2300160: Compound Ceiling Plain [264214]
+    2300162: Compound Ceiling Plain [264304]
+    2300164: Compound Ceiling Plain [264349]
+    2300166: Fascia Fascia [259487]
+    2300168: Fascia Fascia [259497]
+    2300170: Fascia Fascia [259578]
+    2300172: Fascia Fascia [259606]
+    2300174: FixedAlum 10.5 x 8 [240480]
+    2300176: FixedAlum 6.0 x 8 [231591]
+    2300178: Floor Generic 100 [208222]
+    2300180: Floor Generic 100 [262375]
+    2300182: Floor Generic 150mm [260195]
+    2300184: Gutter Gutter [259483]
+    2300186: Gutter Gutter [259484]
+    2300188: Gutter Gutter [259485]
+    2300190: M_Single-Flush 0720 x 2040mm [207252]
+    2300192: M_Single-Flush 0720 x 2040mm [207351]
+    2300194: M_Single-Flush 0720 x 2040mm [208086]
+    2300196: M_Single-Flush 0820 x 2040mm [207538]
+    2300198: M_Single-Flush 0820 x 2040mm [207643]
+    2300200: M_Single-Flush 0820 x 2040mm [207702]
+    2300202: M_Single-Flush 0820 x 2040mm [207754]
+    2300204: M_Single-Flush 0820 x 2040mm [207814]
+    2300206: M_Single-Flush 0820 x 2040mm [207953]
+    2300208: M_Single-Flush 0820 x 2040mm [207998]
+    2300210: Single-Glass 1 1200 x 2143mm [209148]
+    2300212: Sliding Door - 4 Panel (AUS) Type 1 [221516]
+    2300214: Basic Wall Plaster [268124]
+    2300216: Basic Wall Plaster [268130]
+    2300218: Basic Wall Plaster [268135]
+    2300220: Basic Wall Plaster [268147]
+    2300222: Basic Wall Plaster [268154]
+    2300224: Floor carpet [268487]
+    2300226: Floor carpet [268521]
+    2300228: Floor carpet [269141]
+    2300230: Floor carpet [269394]
+    2300232: Floor carpet [269441]
+    2300234: Floor Tiling1 [268216]
+    2300236: Floor Tiling1 [268297]
+    2300238: Basic Wall Plaster [271699]
+    2300240: Basic Wall Plaster [271812]
+    2300242: Basic Wall Plaster [271819]
+    2300244: Basic Wall Plaster [271825]
+    2300246: Basic Wall Plaster [271830]
+    2300248: Basic Wall Plaster [271835]
+    2300250: Basic Wall Plaster [271860]
+    2300252: M_Single-Flush 0820 x 2040mm [272914]
+    2300254: Mirror-Ellipse 600 x 1200mm [279458]
+    2300256: Mirror-Ellipse 600 x 1200mm [279860]
+    2300258: Shower Stall - Rectangular 890 mmx900 mm [276753]
+    2300260: Sink Vanity-Round 482 x 482mm [275651]
+    2300262: Sink Vanity-Round 482 x 482mm [275710]
+    2300264: Toilet-Domestic-3D Toilet-Domestic-3D [274572]
+    2300266: Toilet-Domestic-3D Toilet-Domestic-3D [274859]
+    2300268: Tub-Free Standing-3D 760 x 1525mm [273575]
+    2300270: Vanity Cabinet-Double Door & 4 Drawer 1380mm [277894]
+    2300272: Vanity Cabinet-Double Door & 4 Drawer 1380mm [278170]
+    2300274: Sink Vanity-Round 482 x 482mm [280963]
+    2300276: Vanity Cabinet-Double Door & 4 Drawer 1380mm [280964]
+    2300278: VanityBench VanityBench [280615]
+    2300280: VanityBench VanityBench [280965]
+    2300282: Basic Wall Double brick - 250 [286303]
+    2300284: Basic Wall Double brick - 250 [286790]
+    2300286: Basic Wall Generic 100mm Wall [287524]
+    2300288: Basic Wall Generic 100mm Wall [287570]
+    2300290: Basic Wall Generic 100mm Wall [287586]
+    2300292: Basic Wall Generic 100mm Wall [287668]
+    2300294: Basic Wall Generic 100mm Wall [287739]
+    2300296: Basic Wall Plaster-bathrm [286237]
+    2300298: Basic Wall Plaster-bathrm [286433]
+    2300300: Basic Wall Plaster-bed1 [286854]
+    2300302: Basic Wall Plaster-bed2 [268147]
+    2300304: Basic Wall Plaster-bed2 [271812]
+    2300306: Basic Wall Plaster-bed3 [268135]
+    2300308: Basic Wall Plaster-bed3 [268154]
+    2300310: Basic Wall Plaster-bed3 [286143]
+    2300312: Basic Wall Plaster-ensuite [286946]
+    2300314: Basic Wall Plaster-ensuite [287168]
+    2300316: Basic Wall Plaster-family [268124]
+    2300318: Basic Wall Plaster-family [287123]
+    2300320: Basic Wall Plaster-family [287483]
+    2300322: Basic Wall Plaster-laundry [268130]
+    2300324: Basic Wall Plaster-laundry [287051]
+    2300326: Basic Wall Plaster-laundry [288292]
+    2300328: Basic Wall Plaster-media [287498]
+    2300330: Floor bathrm-tiling [269141]
+    2300332: Floor bed1-carpet [269394]
+    2300334: Floor bed2-carpet [268521]
+    2300336: Floor ensuite-tiles [269441]
+    2300338: Floor family-tiling [268216]
+    2300340: Floor laundry-tiling [285460]
+    2300342: Floor media-carpet [268487]
+    2300344: Floor passage-tiling [268297]
+    2300346: Mirror-Rect 1200 x 1380 [282247]
+    2300348: Mirror-Rect 1200 x 1380 [283302]
+    2300350: SHOWER SHOWER [285149]
+    2300352: W001
+    2300354: W002
+    2300356: W003
+    2300358: W004
+    2300360: W005
+    2300362: W006
+    2300364: W007
+    2300366: W008
+    2300368: W009
+    2300370: W010
+    2300372: W011
+    2300374: W012
+    2300376: W013
+    2300378: W014
+    2300380: W015
+    2300382: W016
+    2300384: W017
+    2300386: W018
+    2300388: W019
+    2300390: W020
+    2300392: W021
+    2300394: W022
+    2300396: W023
+    2300398: W024
+    2300400: W025
+    2300402: W026
+    2300404: W027
+    2300406: W028
+    2300408: W029
+    2300410: W030
+    2300412: W031
+    2300414: W032
+    2300416: W033
+    2300418: W034
+    2300420: W035
+    2300422: W036
+    2300424: W037
+    2300426: W038
+    2300428: W039
+    2300430: W040
+    2300432: W041
+    2300434: W042
+    2300436: W043
+    2300438: W044
+    2300440: W045
+    2300442: W046
+    2300444: W047
+    2300446: W048
+    2300448: W049
+    2300450: Compound Ceiling Plain [290974]
+    2300452: Floor grano [291190]
+    2300454: _2_Pane_Awning 4.0 x 25c [220226]
+    2300456: Basic Wall Plaster [327774]
+    2300458: BoxGutter_linebased 110 x 180 x 150 [353689]
+    2300460: C-Channel 250 TFC [347075]
+    2300462: C-Channel 250 TFC [347894]
+    2300464: C-Channel 250 TFC [348270]
+    2300466: Compound Ceiling Plain [327519]
+    2300468: Cornice-LineBased Cornice-LineBased [342720]
+    2300470: Cornice-LineBased Cornice-LineBased [344929]
+    2300472: Cornice-LineBased Cornice-LineBased [345097]
+    2300474: Cornice-LineBased Cornice-LineBased [345204]
+    2300476: Gutter Gutter [351860]
+    2300478: Wall Sweep Cornice [331447]
+    2300480: Wall Sweep Cornice [331468]
+    2300482: Wall Sweep Cornice [332064]
+    2300484: Wall Sweep Cornice [332324]
+    2300486: Wall Sweep Cornice [332325]
+    2300488: Wall Sweep Cornice [332326]
+    2300490: Wall Sweep Cornice [332327]
+    2300492: Wall Sweep Cornice [332328]
+    2300494: Wall Sweep Cornice [332329]
+    2300496: Wall Sweep Cornice [332331]
+    2300498: Wall Sweep Cornice [332332]
+    2300500: Wall Sweep Cornice [332333]
+    2300502: Wall Sweep Cornice [332532]
+    2300504: Wall Sweep Cornice [332576]
+    2300506: Wall Sweep Cornice [343887]
+    2300508: Wall Sweep Cornice [344197]
+    2300510: Wall Sweep Skirting [348823]
+    2300512: Wall Sweep Skirting [349227]
+    2300514: Wall Sweep Skirting [349539]
+    2300516: Wall Sweep Skirting [349540]
+    2300518: Wall Sweep Skirting [349559]
+    2300520: Wall Sweep Skirting [349560]
+    2300522: Wall Sweep Skirting [349769]
+    2300524: Wall Sweep Skirting [349770]
+    2300526: Basic Wall Double brick - 250 [357782]
+    2300528: Basic Wall Double brick - 250 [359693]
+    2300530: Basic Wall Generic 100mm Wall [358367]
+    2300532: Basic Wall Generic 100mm Wall [367216]
+    2300534: Basic Wall Plaster-ensuite [286854]
+    2300536: Sliding Door - 4 Panel (AUS) 3840w [221516]
+    2300538: Wall Sweep Cornice [361677]
+    2300540: Wall Sweep Cornice [362124]
+    2300542: Wall Sweep Cornice [367120]
+    2300544: Wall Sweep Skirting [359785]
+    2300546: Wall Sweep Skirting [362334]
+    2300548: Wall Sweep Skirting [362529]
+    2300550: Wall Sweep Skirting [362530]
+    2300552: Wall Sweep Skirting [364194]
+    2300554: Wall Sweep Skirting [365446]
+    2300556: Wall Sweep Skirting Tile [365391]
+    2300558: M_Single-Flush 0720 x 2040mm [367730]
+    2300560: Wall Sweep Skirting Tile [365446]
+    2300562: Basic Wall Generic 100mm Wall [378398]
+    2300564: Basic Wall Generic 100mm Wall [379971]
+    2300566: Basic Wall Generic 100mm Wall [380482]
+    2300568: Overhead-Sectional 5800 x 2600 x 1981mm 2 [390735]
+    2300570: Wall Sweep Cornice [380627]
+    2300572: Wall Sweep Cornice [380715]
+    2300574: Wall Sweep Skirting [380809]
+    2300576: Wall Sweep Skirting Tile [380871]
+    2300578: Wall Sweep Skirting Tile [380993]
+    2300580: Basic Wall Generic 100mm Wall [380334]
+    2300582: Robe sliders 1820 x 2143mm [384608]
+    2300584: Robe sliders 1820 x 2143mm [384656]
+    2300586: TiltaDoor-Overhead-Sectional 4800 x 2143 [381571]
+    2300588: Wall Sweep Cornice [380488]
+    2300590: Wall Sweep Cornice [380560]
+    2300592: Wall Sweep Cornice [380615]
+    2300594: Wall Sweep Skirting [380406]
+    2300596: Wall Sweep Skirting Tile [380130]
+    2300598: Single_slider 870 x 2040 [389808]
+    2300600: Wall Sweep Skirting Tile [405069]
+    2300602: Wall Sweep Skirting Tile [405167]
+    3300000: _1_Pane_Awning 4.0 x 9 [262012]
+    3300002: _1_Pane_Awning 4.0 x 9 [262171]
+    3300004: _1_Pane_Awning 4.0 x 9 [262239]
+    3300006: _1_PanelAlum 2.0 x 14c [253480]
+    3300008: _1_PanelAlum 2.5 x 14 [260316]
+    3300010: _1_PanelAlum 5.5 x 18c [260505]
+    3300012: _1_PanelAlum 6.0 x 18 [257191]
+    3300014: _2_Pane_Awning 3.5 x 25c [220226]
+    3300016: _2_Pane_Awning 4.0 x 25c [248896]
+    3300018: _2_Pane_Awning 4.0 x 25c [249037]
+    3300020: _2_Pane_Awning 4.0 x 25c [251747]
+    3300022: _2_PanelAlum 8.5 x 17 [224910]
+    3300024: _2_PanelAlum 8.5 x 25 [218656]
+    3300026: _2_PanelAlum 8.5 x 25 [218888]
+    3300028: Basic Roof CustomOrb - 250mm [243630]
+    3300030: Basic Roof CustomOrb - 250mm true [242851]
+    3300032: Basic Roof CustomOrb - FlatAwning [246716]
+    3300034: Basic Wall Brick - 110 [204014]
+    3300036: Basic Wall Brick - 110 [204104]
+    3300038: Basic Wall Brick - 110 [204216]
+    3300040: Basic Wall Brick - 110 [204307]
+    3300042: Basic Wall Brick - 110 [204381]
+    3300044: Basic Wall Brick - 110 [204468]
+    3300046: Basic Wall Brick - 110 [204549]
+    3300048: Basic Wall Brick - 110 [204611]
+    3300050: Basic Wall Brick Pier- 370 [204960]
+    3300052: Basic Wall Brick Pier- 370 [205030]
+    3300054: Basic Wall Brick Pier- 370 [205093]
+    3300056: Basic Wall Double brick - 230 Rendered [203930]
+    3300058: Basic Wall Double brick - 230 Rendered [203934]
+    3300060: Basic Wall Double brick - 230 Rendered [203943]
+    3300062: Basic Wall Double brick - 230 Rendered [203947]
+    3300064: Basic Wall Double brick - 230 Rendered [203951]
+    3300066: Basic Wall Double brick - 230 Rendered [204001]
+    3300068: Basic Wall Double brick - 230 Rendered [204005]
+    3300070: Basic Wall Double brick - 230 Rendered [204825]
+    3300072: Basic Wall Double brick - 250 [203875]
+    3300074: Basic Wall Double brick - 250 [203889]
+    3300076: Basic Wall Double brick - 250 [203898]
+    3300078: Basic Wall Double brick - 250 [203902]
+    3300080: Basic Wall Double brick - 250 [203906]
+    3300082: Basic Wall Fence [266487]
+    3300084: Basic Wall Fence [266491]
+    3300086: Basic Wall Fence [266495]
+    3300088: Basic Wall Generic 100mm Wall [205382]
+    3300090: Basic Wall Generic 100mm Wall [205391]
+    3300092: Basic Wall Generic 100mm Wall [205399]
+    3300094: Basic Wall Generic 100mm Wall [205439]
+    3300096: Basic Wall Generic 100mm Wall [205443]
+    3300098: Basic Wall Generic 100mm Wall [205447]
+    3300100: Basic Wall Generic 100mm Wall [205451]
+    3300102: Basic Wall Generic 100mm Wall [205455]
+    3300104: Basic Wall Generic 100mm Wall [205459]
+    3300106: Basic Wall Generic 100mm Wall [205463]
+    3300108: Basic Wall Generic 100mm Wall [205467]
+    3300110: Basic Wall Generic 100mm Wall [205509]
+    3300112: Basic Wall Generic 100mm Wall [205513]
+    3300114: Basic Wall Generic 100mm Wall [205517]
+    3300116: Basic Wall Generic 100mm Wall [205521]
+    3300118: Basic Wall Generic 100mm Wall [205525]
+    3300120: Basic Wall Generic 100mm Wall [205529]
+    3300122: Basic Wall Generic 100mm Wall [205533]
+    3300124: Basic Wall Generic 100mm Wall [205537]
+    3300126: Basic Wall Generic 100mm Wall [205652]
+    3300128: Basic Wall Generic 100mm Wall [205798]
+    3300130: Basic Wall Generic 100mm Wall [207104]
+    3300132: Basic Wall Generic 100mm Wall [207189]
+    3300134: CHS-Circular Hollow Section-Column 139.7x3.2CHS [246372]
+    3300136: CHS-Circular Hollow Section-Column 139.7x3.2CHS [246548]
+    3300138: Compound Ceiling Plain [263827]
+    3300140: Compound Ceiling Plain [263869]
+    3300142: Compound Ceiling Plain [263935]
+    3300144: Compound Ceiling Plain [263943]
+    3300146: Compound Ceiling Plain [263967]
+    3300148: Compound Ceiling Plain [263998]
+    3300150: Compound Ceiling Plain [264012]
+    3300152: Compound Ceiling Plain [264020]
+    3300154: Compound Ceiling Plain [264028]
+    3300156: Compound Ceiling Plain [264054]
+    3300158: Compound Ceiling Plain [264091]
+    3300160: Compound Ceiling Plain [264214]
+    3300162: Compound Ceiling Plain [264304]
+    3300164: Compound Ceiling Plain [264349]
+    3300166: Fascia Fascia [259487]
+    3300168: Fascia Fascia [259497]
+    3300170: Fascia Fascia [259578]
+    3300172: Fascia Fascia [259606]
+    3300174: FixedAlum 10.5 x 8 [240480]
+    3300176: FixedAlum 6.0 x 8 [231591]
+    3300178: Floor Generic 100 [208222]
+    3300180: Floor Generic 100 [262375]
+    3300182: Floor Generic 150mm [260195]
+    3300184: Gutter Gutter [259483]
+    3300186: Gutter Gutter [259484]
+    3300188: Gutter Gutter [259485]
+    3300190: M_Single-Flush 0720 x 2040mm [207252]
+    3300192: M_Single-Flush 0720 x 2040mm [207351]
+    3300194: M_Single-Flush 0720 x 2040mm [208086]
+    3300196: M_Single-Flush 0820 x 2040mm [207538]
+    3300198: M_Single-Flush 0820 x 2040mm [207643]
+    3300200: M_Single-Flush 0820 x 2040mm [207702]
+    3300202: M_Single-Flush 0820 x 2040mm [207754]
+    3300204: M_Single-Flush 0820 x 2040mm [207814]
+    3300206: M_Single-Flush 0820 x 2040mm [207953]
+    3300208: M_Single-Flush 0820 x 2040mm [207998]
+    3300210: Single-Glass 1 1200 x 2143mm [209148]
+    3300212: Sliding Door - 4 Panel (AUS) Type 1 [221516]
+    3300214: Basic Wall Plaster [268124]
+    3300216: Basic Wall Plaster [268130]
+    3300218: Basic Wall Plaster [268135]
+    3300220: Basic Wall Plaster [268147]
+    3300222: Basic Wall Plaster [268154]
+    3300224: Floor carpet [268487]
+    3300226: Floor carpet [268521]
+    3300228: Floor carpet [269141]
+    3300230: Floor carpet [269394]
+    3300232: Floor carpet [269441]
+    3300234: Floor Tiling1 [268216]
+    3300236: Floor Tiling1 [268297]
+    3300238: Basic Wall Plaster [271699]
+    3300240: Basic Wall Plaster [271812]
+    3300242: Basic Wall Plaster [271819]
+    3300244: Basic Wall Plaster [271825]
+    3300246: Basic Wall Plaster [271830]
+    3300248: Basic Wall Plaster [271835]
+    3300250: Basic Wall Plaster [271860]
+    3300252: M_Single-Flush 0820 x 2040mm [272914]
+    3300254: Mirror-Ellipse 600 x 1200mm [279458]
+    3300256: Mirror-Ellipse 600 x 1200mm [279860]
+    3300258: Shower Stall - Rectangular 890 mmx900 mm [276753]
+    3300260: Sink Vanity-Round 482 x 482mm [275651]
+    3300262: Sink Vanity-Round 482 x 482mm [275710]
+    3300264: Toilet-Domestic-3D Toilet-Domestic-3D [274572]
+    3300266: Toilet-Domestic-3D Toilet-Domestic-3D [274859]
+    3300268: Tub-Free Standing-3D 760 x 1525mm [273575]
+    3300270: Vanity Cabinet-Double Door & 4 Drawer 1380mm [277894]
+    3300272: Vanity Cabinet-Double Door & 4 Drawer 1380mm [278170]
+    3300274: Sink Vanity-Round 482 x 482mm [280963]
+    3300276: Vanity Cabinet-Double Door & 4 Drawer 1380mm [280964]
+    3300278: VanityBench VanityBench [280615]
+    3300280: VanityBench VanityBench [280965]
+    3300282: Basic Wall Double brick - 250 [286303]
+    3300284: Basic Wall Double brick - 250 [286790]
+    3300286: Basic Wall Generic 100mm Wall [287524]
+    3300288: Basic Wall Generic 100mm Wall [287570]
+    3300290: Basic Wall Generic 100mm Wall [287586]
+    3300292: Basic Wall Generic 100mm Wall [287668]
+    3300294: Basic Wall Generic 100mm Wall [287739]
+    3300296: Basic Wall Plaster-bathrm [286237]
+    3300298: Basic Wall Plaster-bathrm [286433]
+    3300300: Basic Wall Plaster-bed1 [286854]
+    3300302: Basic Wall Plaster-bed2 [268147]
+    3300304: Basic Wall Plaster-bed2 [271812]
+    3300306: Basic Wall Plaster-bed3 [268135]
+    3300308: Basic Wall Plaster-bed3 [268154]
+    3300310: Basic Wall Plaster-bed3 [286143]
+    3300312: Basic Wall Plaster-ensuite [286946]
+    3300314: Basic Wall Plaster-ensuite [287168]
+    3300316: Basic Wall Plaster-family [268124]
+    3300318: Basic Wall Plaster-family [287123]
+    3300320: Basic Wall Plaster-family [287483]
+    3300322: Basic Wall Plaster-laundry [268130]
+    3300324: Basic Wall Plaster-laundry [287051]
+    3300326: Basic Wall Plaster-laundry [288292]
+    3300328: Basic Wall Plaster-media [287498]
+    3300330: Floor bathrm-tiling [269141]
+    3300332: Floor bed1-carpet [269394]
+    3300334: Floor bed2-carpet [268521]
+    3300336: Floor ensuite-tiles [269441]
+    3300338: Floor family-tiling [268216]
+    3300340: Floor laundry-tiling [285460]
+    3300342: Floor media-carpet [268487]
+    3300344: Floor passage-tiling [268297]
+    3300346: Mirror-Rect 1200 x 1380 [282247]
+    3300348: Mirror-Rect 1200 x 1380 [283302]
+    3300350: SHOWER SHOWER [285149]
+    3300352: W001
+    3300354: W002
+    3300356: W003
+    3300358: W004
+    3300360: W005
+    3300362: W006
+    3300364: W007
+    3300366: W008
+    3300368: W009
+    3300370: W010
+    3300372: W011
+    3300374: W012
+    3300376: W013
+    3300378: W014
+    3300380: W015
+    3300382: W016
+    3300384: W017
+    3300386: W018
+    3300388: W019
+    3300390: W020
+    3300392: W021
+    3300394: W022
+    3300396: W023
+    3300398: W024
+    3300400: W025
+    3300402: W026
+    3300404: W027
+    3300406: W028
+    3300408: W029
+    3300410: W030
+    3300412: W031
+    3300414: W032
+    3300416: W033
+    3300418: W034
+    3300420: W035
+    3300422: W036
+    3300424: W037
+    3300426: W038
+    3300428: W039
+    3300430: W040
+    3300432: W041
+    3300434: W042
+    3300436: W043
+    3300438: W044
+    3300440: W045
+    3300442: W046
+    3300444: W047
+    3300446: W048
+    3300448: W049
+    3300450: Compound Ceiling Plain [290974]
+    3300452: Floor grano [291190]
+    3300454: _2_Pane_Awning 4.0 x 25c [220226]
+    3300456: Basic Wall Plaster [327774]
+    3300458: BoxGutter_linebased 110 x 180 x 150 [353689]
+    3300460: C-Channel 250 TFC [347075]
+    3300462: C-Channel 250 TFC [347894]
+    3300464: C-Channel 250 TFC [348270]
+    3300466: Compound Ceiling Plain [327519]
+    3300468: Cornice-LineBased Cornice-LineBased [342720]
+    3300470: Cornice-LineBased Cornice-LineBased [344929]
+    3300472: Cornice-LineBased Cornice-LineBased [345097]
+    3300474: Cornice-LineBased Cornice-LineBased [345204]
+    3300476: Gutter Gutter [351860]
+    3300478: Wall Sweep Cornice [331447]
+    3300480: Wall Sweep Cornice [331468]
+    3300482: Wall Sweep Cornice [332064]
+    3300484: Wall Sweep Cornice [332324]
+    3300486: Wall Sweep Cornice [332325]
+    3300488: Wall Sweep Cornice [332326]
+    3300490: Wall Sweep Cornice [332327]
+    3300492: Wall Sweep Cornice [332328]
+    3300494: Wall Sweep Cornice [332329]
+    3300496: Wall Sweep Cornice [332331]
+    3300498: Wall Sweep Cornice [332332]
+    3300500: Wall Sweep Cornice [332333]
+    3300502: Wall Sweep Cornice [332532]
+    3300504: Wall Sweep Cornice [332576]
+    3300506: Wall Sweep Cornice [343887]
+    3300508: Wall Sweep Cornice [344197]
+    3300510: Wall Sweep Skirting [348823]
+    3300512: Wall Sweep Skirting [349227]
+    3300514: Wall Sweep Skirting [349539]
+    3300516: Wall Sweep Skirting [349540]
+    3300518: Wall Sweep Skirting [349559]
+    3300520: Wall Sweep Skirting [349560]
+    3300522: Wall Sweep Skirting [349769]
+    3300524: Wall Sweep Skirting [349770]
+    3300526: Basic Wall Double brick - 250 [357782]
+    3300528: Basic Wall Double brick - 250 [359693]
+    3300530: Basic Wall Generic 100mm Wall [358367]
+    3300532: Basic Wall Generic 100mm Wall [367216]
+    3300534: Basic Wall Plaster-ensuite [286854]
+    3300536: Sliding Door - 4 Panel (AUS) 3840w [221516]
+    3300538: Wall Sweep Cornice [361677]
+    3300540: Wall Sweep Cornice [362124]
+    3300542: Wall Sweep Cornice [367120]
+    3300544: Wall Sweep Skirting [359785]
+    3300546: Wall Sweep Skirting [362334]
+    3300548: Wall Sweep Skirting [362529]
+    3300550: Wall Sweep Skirting [362530]
+    3300552: Wall Sweep Skirting [364194]
+    3300554: Wall Sweep Skirting [365446]
+    3300556: Wall Sweep Skirting Tile [365391]
+    3300558: M_Single-Flush 0720 x 2040mm [367730]
+    3300560: Wall Sweep Skirting Tile [365446]
+    3300562: Basic Wall Generic 100mm Wall [378398]
+    3300564: Basic Wall Generic 100mm Wall [379971]
+    3300566: Basic Wall Generic 100mm Wall [380482]
+    3300568: Overhead-Sectional 5800 x 2600 x 1981mm 2 [390735]
+    3300570: Wall Sweep Cornice [380627]
+    3300572: Wall Sweep Cornice [380715]
+    3300574: Wall Sweep Skirting [380809]
+    3300576: Wall Sweep Skirting Tile [380871]
+    3300578: Wall Sweep Skirting Tile [380993]
+    3300580: Basic Wall Generic 100mm Wall [380334]
+    3300582: Robe sliders 1820 x 2143mm [384608]
+    3300584: Robe sliders 1820 x 2143mm [384656]
+    3300586: TiltaDoor-Overhead-Sectional 4800 x 2143 [381571]
+    3300588: Wall Sweep Cornice [380488]
+    3300590: Wall Sweep Cornice [380560]
+    3300592: Wall Sweep Cornice [380615]
+    3300594: Wall Sweep Skirting [380406]
+    3300596: Wall Sweep Skirting Tile [380130]
+    3300598: Single_slider 870 x 2040 [389808]
+    3300600: Wall Sweep Skirting Tile [405069]
+    3300602: Wall Sweep Skirting Tile [405167]
+    4300000: Basic Wall Double brick - 250 [203875]
+    4300002: Basic Wall Double brick - 250 [203889]
+    4300004: Basic Wall Double brick - 250 [203898]
+    4300006: Basic Wall Double brick - 250 [203902]
+    4300008: Basic Wall Double brick - 250 [203906]
+    4300010: Basic Wall Double brick - 230 Rendered [203930]
+    4300012: Basic Wall Double brick - 230 Rendered [203934]
+    4300014: Basic Wall Double brick - 230 Rendered [203943]
+    4300016: Basic Wall Double brick - 230 Rendered [203947]
+    4300018: Basic Wall Double brick - 230 Rendered [203951]
+    4300020: Basic Wall Double brick - 230 Rendered [204001]
+    4300022: Basic Wall Double brick - 230 Rendered [204005]
+    4300024: Basic Wall Brick - 110 [204014]
+    4300026: Basic Wall Brick - 110 [204104]
+    4300028: Basic Wall Brick - 110 [204216]
+    4300030: Basic Wall Brick - 110 [204307]
+    4300032: Basic Wall Brick - 110 [204381]
+    4300034: Basic Wall Brick - 110 [204468]
+    4300036: Basic Wall Brick - 110 [204549]
+    4300038: Basic Wall Brick - 110 [204611]
+    4300040: Basic Wall Double brick - 230 Rendered [204825]
+    4300042: Basic Wall Brick Pier- 370 [204960]
+    4300044: Basic Wall Brick Pier- 370 [205030]
+    4300046: Basic Wall Brick Pier- 370 [205093]
+    4300048: Basic Wall Generic 100mm Wall [205382]
+    4300050: Basic Wall Generic 100mm Wall [205391]
+    4300052: Basic Wall Generic 100mm Wall [205399]
+    4300054: Basic Wall Generic 100mm Wall [205439]
+    4300056: Basic Wall Generic 100mm Wall [205443]
+    4300058: Basic Wall Generic 100mm Wall [205447]
+    4300060: Basic Wall Generic 100mm Wall [205451]
+    4300062: Basic Wall Generic 100mm Wall [205455]
+    4300064: Basic Wall Generic 100mm Wall [205459]
+    4300066: Basic Wall Generic 100mm Wall [205463]
+    4300068: Basic Wall Generic 100mm Wall [205467]
+    4300070: Basic Wall Generic 100mm Wall [205509]
+    4300072: Basic Wall Generic 100mm Wall [205513]
+    4300074: Basic Wall Generic 100mm Wall [205517]
+    4300076: Basic Wall Generic 100mm Wall [205521]
+    4300078: Basic Wall Generic 100mm Wall [205525]
+    4300080: Basic Wall Generic 100mm Wall [205529]
+    4300082: Basic Wall Generic 100mm Wall [205533]
+    4300084: Basic Wall Generic 100mm Wall [205537]
+    4300086: Basic Wall Generic 100mm Wall [205652]
+    4300088: Basic Wall Generic 100mm Wall [205798]
+    4300090: Basic Wall Generic 100mm Wall [207104]
+    4300092: Basic Wall Generic 100mm Wall [207189]
+    4300094: M_Single-Flush 0720 x 2040mm [207252]
+    4300096: M_Single-Flush 0720 x 2040mm [207351]
+    4300098: M_Single-Flush 0820 x 2040mm [207538]
+    4300100: M_Single-Flush 0820 x 2040mm [207643]
+    4300102: M_Single-Flush 0820 x 2040mm [207702]
+    4300104: M_Single-Flush 0820 x 2040mm [207754]
+    4300106: M_Single-Flush 0820 x 2040mm [207814]
+    4300108: M_Single-Flush 0820 x 2040mm [207953]
+    4300110: M_Single-Flush 0820 x 2040mm [207998]
+    4300112: M_Single-Flush 0720 x 2040mm [208086]
+    4300114: Floor Generic 100 [208222]
+    4300116: Single-Glass 1 1200 x 2143mm [209148]
+    4300118: _2_PanelAlum 8.5 x 25 [218656]
+    4300120: _2_PanelAlum 8.5 x 25 [218888]
+    4300122: _2_Pane_Awning 3.5 x 25c [220226]
+    4300124: Sliding Door - 4 Panel (AUS) Type 1 [221516]
+    4300126: _2_PanelAlum 8.5 x 17 [224910]
+    4300128: FixedAlum 6.0 x 8 [231591]
+    4300130: FixedAlum 10.5 x 8 [240480]
+    4300132: Basic Roof CustomOrb - 250mm true [242851]
+    4300134: Basic Roof CustomOrb - 250mm [243630]
+    4300136: CHS-Circular Hollow Section-Column 139.7x3.2CHS [246372]
+    4300138: CHS-Circular Hollow Section-Column 139.7x3.2CHS [246548]
+    4300140: Basic Roof CustomOrb - FlatAwning [246716]
+    4300142: _2_Pane_Awning 4.0 x 25c [248896]
+    4300144: _2_Pane_Awning 4.0 x 25c [249037]
+    4300146: _2_Pane_Awning 4.0 x 25c [251747]
+    4300148: _1_PanelAlum 2.0 x 14c [253480]
+    4300150: _1_PanelAlum 6.0 x 18 [257191]
+    4300152: Gutter Gutter [259483]
+    4300154: Gutter Gutter [259484]
+    4300156: Gutter Gutter [259485]
+    4300158: Fascia Fascia [259487]
+    4300160: Fascia Fascia [259497]
+    4300162: Fascia Fascia [259578]
+    4300164: Fascia Fascia [259606]
+    4300166: Floor Generic 150mm [260195]
+    4300168: _1_PanelAlum 2.5 x 14 [260316]
+    4300170: _1_PanelAlum 5.5 x 18c [260505]
+    4300172: _1_Pane_Awning 4.0 x 9 [262012]
+    4300174: _1_Pane_Awning 4.0 x 9 [262171]
+    4300176: _1_Pane_Awning 4.0 x 9 [262239]
+    4300178: Floor Generic 100 [262375]
+    4300180: Compound Ceiling Plain [263827]
+    4300182: Compound Ceiling Plain [263869]
+    4300184: Compound Ceiling Plain [263935]
+    4300186: Compound Ceiling Plain [263943]
+    4300188: Compound Ceiling Plain [263967]
+    4300190: Compound Ceiling Plain [263998]
+    4300192: Compound Ceiling Plain [264012]
+    4300194: Compound Ceiling Plain [264020]
+    4300196: Compound Ceiling Plain [264028]
+    4300198: Compound Ceiling Plain [264054]
+    4300200: Compound Ceiling Plain [264091]
+    4300202: Compound Ceiling Plain [264214]
+    4300204: Compound Ceiling Plain [264304]
+    4300206: Compound Ceiling Plain [264349]
+    4300208: Basic Wall Fence [266487]
+    4300210: Basic Wall Fence [266491]
+    4300212: Basic Wall Fence [266495]
+    4300214: Basic Wall Plaster [268124]
+    4300216: Basic Wall Plaster [268130]
+    4300218: Basic Wall Plaster [268135]
+    4300220: Basic Wall Plaster [268147]
+    4300222: Basic Wall Plaster [268154]
+    4300224: Floor Tiling1 [268216]
+    4300226: Floor Tiling1 [268297]
+    4300228: Floor carpet [268487]
+    4300230: Floor carpet [268521]
+    4300232: Floor carpet [269141]
+    4300234: Floor carpet [269394]
+    4300236: Floor carpet [269441]
+    4300238: Basic Wall Plaster [271699]
+    4300240: Basic Wall Plaster [271812]
+    4300242: Basic Wall Plaster [271819]
+    4300244: Basic Wall Plaster [271825]
+    4300246: Basic Wall Plaster [271830]
+    4300248: Basic Wall Plaster [271835]
+    4300250: Basic Wall Plaster [271860]
+    4300252: M_Single-Flush 0820 x 2040mm [272914]
+    4300254: Tub-Free Standing-3D 760 x 1525mm [273575]
+    4300256: Toilet-Domestic-3D Toilet-Domestic-3D [274572]
+    4300258: Toilet-Domestic-3D Toilet-Domestic-3D [274859]
+    4300260: Sink Vanity-Round 482 x 482mm [275651]
+    4300262: Sink Vanity-Round 482 x 482mm [275710]
+    4300264: Shower Stall - Rectangular 890 mmx900 mm [276753]
+    4300266: Vanity Cabinet-Double Door & 4 Drawer 1380mm [277894]
+    4300268: Vanity Cabinet-Double Door & 4 Drawer 1380mm [278170]
+    4300270: Mirror-Ellipse 600 x 1200mm [279458]
+    4300272: Mirror-Ellipse 600 x 1200mm [279860]
+    4300274: VanityBench VanityBench [280615]
+    4300276: Sink Vanity-Round 482 x 482mm [280963]
+    4300278: Vanity Cabinet-Double Door & 4 Drawer 1380mm [280964]
+    4300280: VanityBench VanityBench [280965]
+    4300282: Basic Wall Plaster-family [268124]
+    4300284: Basic Wall Plaster-laundry [268130]
+    4300286: Basic Wall Plaster-bed3 [268135]
+    4300288: Basic Wall Plaster-bed2 [268147]
+    4300290: Basic Wall Plaster-bed3 [268154]
+    4300292: Floor family-tiling [268216]
+    4300294: Floor passage-tiling [268297]
+    4300296: Floor media-carpet [268487]
+    4300298: Floor bed2-carpet [268521]
+    4300300: Floor bathrm-tiling [269141]
+    4300302: Floor bed1-carpet [269394]
+    4300304: Floor ensuite-tiles [269441]
+    4300306: Basic Wall Plaster-bed2 [271812]
+    4300308: Mirror-Rect 1200 x 1380 [282247]
+    4300310: Mirror-Rect 1200 x 1380 [283302]
+    4300312: SHOWER SHOWER [285149]
+    4300314: Floor laundry-tiling [285460]
+    4300316: Basic Wall Plaster-bed3 [286143]
+    4300318: Basic Wall Plaster-bathrm [286237]
+    4300320: Basic Wall Double brick - 250 [286303]
+    4300322: Basic Wall Plaster-bathrm [286433]
+    4300324: Basic Wall Double brick - 250 [286790]
+    4300326: Basic Wall Plaster-bed1 [286854]
+    4300328: Basic Wall Plaster-ensuite [286946]
+    4300330: Basic Wall Plaster-laundry [287051]
+    4300332: Basic Wall Plaster-family [287123]
+    4300334: Basic Wall Plaster-ensuite [287168]
+    4300336: Basic Wall Plaster-family [287483]
+    4300338: Basic Wall Plaster-media [287498]
+    4300340: Basic Wall Generic 100mm Wall [287524]
+    4300342: Basic Wall Generic 100mm Wall [287570]
+    4300344: Basic Wall Generic 100mm Wall [287586]
+    4300346: Basic Wall Generic 100mm Wall [287668]
+    4300348: Basic Wall Generic 100mm Wall [287739]
+    4300350: Basic Wall Plaster-laundry [288292]
+    4300352: W001
+    4300354: W002
+    4300356: W003
+    4300358: W004
+    4300360: W005
+    4300362: W006
+    4300364: W007
+    4300366: W008
+    4300368: W009
+    4300370: W010
+    4300372: W011
+    4300374: W012
+    4300376: W013
+    4300378: W014
+    4300380: W015
+    4300382: W016
+    4300384: W017
+    4300386: W018
+    4300388: W019
+    4300390: W020
+    4300392: W021
+    4300394: W022
+    4300396: W023
+    4300398: W024
+    4300400: W025
+    4300402: W026
+    4300404: W027
+    4300406: W028
+    4300408: W029
+    4300410: W030
+    4300412: W031
+    4300414: W032
+    4300416: W033
+    4300418: W034
+    4300420: W035
+    4300422: W036
+    4300424: W037
+    4300426: W038
+    4300428: W039
+    4300430: W040
+    4300432: W041
+    4300434: W042
+    4300436: W043
+    4300438: W044
+    4300440: W045
+    4300442: W046
+    4300444: W047
+    4300446: W048
+    4300448: W049
+    4300450: Compound Ceiling Plain [290974]
+    4300452: Floor grano [291190]
+    4300454: _2_Pane_Awning 4.0 x 25c [220226]
+    4300456: Compound Ceiling Plain [327519]
+    4300458: Basic Wall Plaster [327774]
+    4300460: Wall Sweep Cornice [331447]
+    4300462: Wall Sweep Cornice [331468]
+    4300464: Wall Sweep Cornice [332064]
+    4300466: Wall Sweep Cornice [332324]
+    4300468: Wall Sweep Cornice [332325]
+    4300470: Wall Sweep Cornice [332326]
+    4300472: Wall Sweep Cornice [332327]
+    4300474: Wall Sweep Cornice [332328]
+    4300476: Wall Sweep Cornice [332329]
+    4300478: Wall Sweep Cornice [332331]
+    4300480: Wall Sweep Cornice [332332]
+    4300482: Wall Sweep Cornice [332333]
+    4300484: Wall Sweep Cornice [332532]
+    4300486: Wall Sweep Cornice [332576]
+    4300488: Cornice-LineBased Cornice-LineBased [342720]
+    4300490: Wall Sweep Cornice [343887]
+    4300492: Wall Sweep Cornice [344197]
+    4300494: Cornice-LineBased Cornice-LineBased [344929]
+    4300496: Cornice-LineBased Cornice-LineBased [345097]
+    4300498: Cornice-LineBased Cornice-LineBased [345204]
+    4300500: C-Channel 250 TFC [347075]
+    4300502: C-Channel 250 TFC [347894]
+    4300504: C-Channel 250 TFC [348270]
+    4300506: Wall Sweep Skirting [348823]
+    4300508: Wall Sweep Skirting [349227]
+    4300510: Wall Sweep Skirting [349539]
+    4300512: Wall Sweep Skirting [349540]
+    4300514: Wall Sweep Skirting [349559]
+    4300516: Wall Sweep Skirting [349560]
+    4300518: Wall Sweep Skirting [349769]
+    4300520: Wall Sweep Skirting [349770]
+    4300522: Gutter Gutter [351860]
+    4300524: BoxGutter_linebased 110 x 180 x 150 [353689]
+    4300526: Sliding Door - 4 Panel (AUS) 3840w [221516]
+    4300528: Basic Wall Plaster-ensuite [286854]
+    4300530: Basic Wall Double brick - 250 [357782]
+    4300532: Basic Wall Generic 100mm Wall [358367]
+    4300534: Basic Wall Double brick - 250 [359693]
+    4300536: Wall Sweep Skirting [359785]
+    4300538: Wall Sweep Cornice [361677]
+    4300540: Wall Sweep Cornice [362124]
+    4300542: Wall Sweep Skirting [362334]
+    4300544: Wall Sweep Skirting [362529]
+    4300546: Wall Sweep Skirting [362530]
+    4300548: Wall Sweep Skirting [364194]
+    4300550: Wall Sweep Skirting Tile [365391]
+    4300552: Wall Sweep Skirting [365446]
+    4300554: Wall Sweep Cornice [367120]
+    4300556: Basic Wall Generic 100mm Wall [367216]
+    4300558: M_Single-Flush 0720 x 2040mm [367730]
+    4300560: Wall Sweep Skirting Tile [365446]
+    4300562: Basic Wall Generic 100mm Wall [378398]
+    4300564: Basic Wall Generic 100mm Wall [379971]
+    4300566: Basic Wall Generic 100mm Wall [380482]
+    4300568: Wall Sweep Cornice [380627]
+    4300570: Wall Sweep Cornice [380715]
+    4300572: Wall Sweep Skirting [380809]
+    4300574: Wall Sweep Skirting Tile [380871]
+    4300576: Wall Sweep Skirting Tile [380993]
+    4300578: Overhead-Sectional 5800 x 2600 x 1981mm 2 [390735]
+    4300580: Wall Sweep Skirting Tile [380130]
+    4300582: Basic Wall Generic 100mm Wall [380334]
+    4300584: Wall Sweep Skirting [380406]
+    4300586: Wall Sweep Cornice [380488]
+    4300588: Wall Sweep Cornice [380560]
+    4300590: Wall Sweep Cornice [380615]
+    4300592: TiltaDoor-Overhead-Sectional 4800 x 2143 [381571]
+    4300594: Robe sliders 1820 x 2143mm [384608]
+    4300596: Robe sliders 1820 x 2143mm [384656]
+    4300598: Single_slider 870 x 2040 [389808]
+    4300600: Wall Sweep Skirting Tile [405069]
+    4300602: Wall Sweep Skirting Tile [405167]
+    6400000: _1_Pane_Awning 4.0 x 9 [262012]
+    6400002: _1_Pane_Awning 4.0 x 9 [262171]
+    6400004: _1_Pane_Awning 4.0 x 9 [262239]
+    6400006: _1_PanelAlum 2.0 x 14c [253480]
+    6400008: _1_PanelAlum 2.5 x 14 [260316]
+    6400010: _1_PanelAlum 5.5 x 18c [260505]
+    6400012: _1_PanelAlum 6.0 x 18 [257191]
+    6400014: _2_Pane_Awning 3.5 x 25c [220226]
+    6400016: _2_Pane_Awning 4.0 x 25c [248896]
+    6400018: _2_Pane_Awning 4.0 x 25c [249037]
+    6400020: _2_Pane_Awning 4.0 x 25c [251747]
+    6400022: _2_PanelAlum 8.5 x 17 [224910]
+    6400024: _2_PanelAlum 8.5 x 25 [218656]
+    6400026: _2_PanelAlum 8.5 x 25 [218888]
+    6400028: Basic Roof CustomOrb - 250mm [243630]
+    6400030: Basic Roof CustomOrb - 250mm true [242851]
+    6400032: Basic Roof CustomOrb - FlatAwning [246716]
+    6400034: Basic Wall Brick - 110 [204014]
+    6400036: Basic Wall Brick - 110 [204104]
+    6400038: Basic Wall Brick - 110 [204216]
+    6400040: Basic Wall Brick - 110 [204307]
+    6400042: Basic Wall Brick - 110 [204381]
+    6400044: Basic Wall Brick - 110 [204468]
+    6400046: Basic Wall Brick - 110 [204549]
+    6400048: Basic Wall Brick - 110 [204611]
+    6400050: Basic Wall Brick Pier- 370 [204960]
+    6400052: Basic Wall Brick Pier- 370 [205030]
+    6400054: Basic Wall Brick Pier- 370 [205093]
+    6400056: Basic Wall Double brick - 230 Rendered [203930]
+    6400058: Basic Wall Double brick - 230 Rendered [203934]
+    6400060: Basic Wall Double brick - 230 Rendered [203943]
+    6400062: Basic Wall Double brick - 230 Rendered [203947]
+    6400064: Basic Wall Double brick - 230 Rendered [203951]
+    6400066: Basic Wall Double brick - 230 Rendered [204001]
+    6400068: Basic Wall Double brick - 230 Rendered [204005]
+    6400070: Basic Wall Double brick - 230 Rendered [204825]
+    6400072: Basic Wall Double brick - 250 [203875]
+    6400074: Basic Wall Double brick - 250 [203889]
+    6400076: Basic Wall Double brick - 250 [203898]
+    6400078: Basic Wall Double brick - 250 [203902]
+    6400080: Basic Wall Double brick - 250 [203906]
+    6400082: Basic Wall Double brick - 250 [286303]
+    6400084: Basic Wall Double brick - 250 [286790]
+    6400086: Basic Wall Fence [266487]
+    6400088: Basic Wall Fence [266491]
+    6400090: Basic Wall Fence [266495]
+    6400092: Basic Wall Generic 100mm Wall [205382]
+    6400094: Basic Wall Generic 100mm Wall [205391]
+    6400096: Basic Wall Generic 100mm Wall [205399]
+    6400098: Basic Wall Generic 100mm Wall [205439]
+    6400100: Basic Wall Generic 100mm Wall [205443]
+    6400102: Basic Wall Generic 100mm Wall [205447]
+    6400104: Basic Wall Generic 100mm Wall [205451]
+    6400106: Basic Wall Generic 100mm Wall [205455]
+    6400108: Basic Wall Generic 100mm Wall [205459]
+    6400110: Basic Wall Generic 100mm Wall [205463]
+    6400112: Basic Wall Generic 100mm Wall [205467]
+    6400114: Basic Wall Generic 100mm Wall [205509]
+    6400116: Basic Wall Generic 100mm Wall [205513]
+    6400118: Basic Wall Generic 100mm Wall [205517]
+    6400120: Basic Wall Generic 100mm Wall [205521]
+    6400122: Basic Wall Generic 100mm Wall [205525]
+    6400124: Basic Wall Generic 100mm Wall [205529]
+    6400126: Basic Wall Generic 100mm Wall [205533]
+    6400128: Basic Wall Generic 100mm Wall [205537]
+    6400130: Basic Wall Generic 100mm Wall [205652]
+    6400132: Basic Wall Generic 100mm Wall [205798]
+    6400134: Basic Wall Generic 100mm Wall [207104]
+    6400136: Basic Wall Generic 100mm Wall [207189]
+    6400138: Basic Wall Generic 100mm Wall [287524]
+    6400140: Basic Wall Generic 100mm Wall [287570]
+    6400142: Basic Wall Generic 100mm Wall [287586]
+    6400144: Basic Wall Generic 100mm Wall [287668]
+    6400146: Basic Wall Generic 100mm Wall [287739]
+    6400148: Basic Wall Plaster [271699]
+    6400150: Basic Wall Plaster [271819]
+    6400152: Basic Wall Plaster [271825]
+    6400154: Basic Wall Plaster-bathrm [286237]
+    6400156: Basic Wall Plaster-bathrm [286433]
+    6400158: Basic Wall Plaster-bed1 [286854]
+    6400160: Basic Wall Plaster-bed2 [268147]
+    6400162: Basic Wall Plaster-bed2 [271812]
+    6400164: Basic Wall Plaster-bed3 [268135]
+    6400166: Basic Wall Plaster-bed3 [268154]
+    6400168: Basic Wall Plaster-bed3 [286143]
+    6400170: Basic Wall Plaster-ensuite [286946]
+    6400172: Basic Wall Plaster-ensuite [287168]
+    6400174: Basic Wall Plaster-family [268124]
+    6400176: Basic Wall Plaster-family [287123]
+    6400178: Basic Wall Plaster-family [287483]
+    6400180: Basic Wall Plaster-laundry [268130]
+    6400182: Basic Wall Plaster-laundry [287051]
+    6400184: Basic Wall Plaster-laundry [288292]
+    6400186: Basic Wall Plaster-media [287498]
+    6400188: CHS-Circular Hollow Section-Column 139.7x3.2CHS [246372]
+    6400190: CHS-Circular Hollow Section-Column 139.7x3.2CHS [246548]
+    6400192: Compound Ceiling Plain [263827]
+    6400194: Compound Ceiling Plain [263869]
+    6400196: Compound Ceiling Plain [263935]
+    6400198: Compound Ceiling Plain [263943]
+    6400200: Compound Ceiling Plain [263967]
+    6400202: Compound Ceiling Plain [263998]
+    6400204: Compound Ceiling Plain [264012]
+    6400206: Compound Ceiling Plain [264020]
+    6400208: Compound Ceiling Plain [264028]
+    6400210: Compound Ceiling Plain [264054]
+    6400212: Compound Ceiling Plain [264091]
+    6400214: Compound Ceiling Plain [264214]
+    6400216: Compound Ceiling Plain [264304]
+    6400218: Compound Ceiling Plain [264349]
+    6400220: Fascia Fascia [259487]
+    6400222: Fascia Fascia [259497]
+    6400224: Fascia Fascia [259578]
+    6400226: Fascia Fascia [259606]
+    6400228: FixedAlum 10.5 x 8 [240480]
+    6400230: FixedAlum 6.0 x 8 [231591]
+    6400232: Floor bathrm-tiling [269141]
+    6400234: Floor bed1-carpet [269394]
+    6400236: Floor bed2-carpet [268521]
+    6400238: Floor ensuite-tiles [269441]
+    6400240: Floor family-tiling [268216]
+    6400242: Floor Generic 100 [208222]
+    6400244: Floor Generic 100 [262375]
+    6400246: Floor Generic 150mm [260195]
+    6400248: Floor laundry-tiling [285460]
+    6400250: Floor media-carpet [268487]
+    6400252: Floor passage-tiling [268297]
+    6400254: Gutter Gutter [259483]
+    6400256: Gutter Gutter [259484]
+    6400258: Gutter Gutter [259485]
+    6400260: M_Single-Flush 0720 x 2040mm [207252]
+    6400262: M_Single-Flush 0720 x 2040mm [207351]
+    6400264: M_Single-Flush 0720 x 2040mm [208086]
+    6400266: M_Single-Flush 0820 x 2040mm [207538]
+    6400268: M_Single-Flush 0820 x 2040mm [207643]
+    6400270: M_Single-Flush 0820 x 2040mm [207702]
+    6400272: M_Single-Flush 0820 x 2040mm [207754]
+    6400274: M_Single-Flush 0820 x 2040mm [207814]
+    6400276: M_Single-Flush 0820 x 2040mm [207953]
+    6400278: M_Single-Flush 0820 x 2040mm [207998]
+    6400280: M_Single-Flush 0820 x 2040mm [272914]
+    6400282: Mirror-Rect 1200 x 1380 [282247]
+    6400284: Mirror-Rect 1200 x 1380 [283302]
+    6400286: SHOWER SHOWER [285149]
+    6400288: Single-Glass 1 1200 x 2143mm [209148]
+    6400290: Sink Vanity-Round 482 x 482mm [275651]
+    6400292: Sink Vanity-Round 482 x 482mm [280963]
+    6400294: Sliding Door - 4 Panel (AUS) Type 1 [221516]
+    6400296: Toilet-Domestic-3D Toilet-Domestic-3D [274572]
+    6400298: Toilet-Domestic-3D Toilet-Domestic-3D [274859]
+    6400300: Tub-Free Standing-3D 760 x 1525mm [273575]
+    6400302: Vanity Cabinet-Double Door & 4 Drawer 1380mm [277894]
+    6400304: Vanity Cabinet-Double Door & 4 Drawer 1380mm [280964]
+    6400306: VanityBench VanityBench [280615]
+    6400308: VanityBench VanityBench [280965]
+    6400310: W001
+    6400312: W002
+    6400314: W003
+    6400316: W004
+    6400318: W005
+    6400320: W006
+    6400322: W007
+    6400324: W008
+    6400326: W009
+    6400328: W010
+    6400330: W011
+    6400332: W012
+    6400334: W013
+    6400336: W014
+    6400338: W015
+    6400340: W016
+    6400342: W017
+    6400344: W018
+    6400346: W019
+    6400348: W020
+    6400350: W021
+    6400352: W022
+    6400354: W023
+    6400356: W024
+    6400358: W025
+    6400360: W026
+    6400362: W027
+    6400364: W028
+    6400366: W029
+    6400368: W030
+    6400370: W031
+    6400372: W032
+    6400374: W033
+    6400376: W034
+    6400378: W035
+    6400380: W036
+    6400382: W037
+    6400384: W038
+    6400386: W039
+    6400388: W040
+    6400390: W041
+    6400392: W042
+    6400394: W043
+    6400396: W044
+    6400398: W045
+    6400400: W046
+    6400402: W047
+    6400404: W048
+    6400406: W049
+    6400408: Compound Ceiling Plain [290974]
+    6400410: Floor grano [291190]
+    6400412: _2_Pane_Awning 4.0 x 25c [220226]
+    6400414: Basic Wall Plaster [327774]
+    6400416: BoxGutter_linebased 110 x 180 x 150 [353689]
+    6400418: C-Channel 250 TFC [347075]
+    6400420: C-Channel 250 TFC [347894]
+    6400422: C-Channel 250 TFC [348270]
+    6400424: Compound Ceiling Plain [327519]
+    6400426: Cornice-LineBased Cornice-LineBased [342720]
+    6400428: Cornice-LineBased Cornice-LineBased [344929]
+    6400430: Cornice-LineBased Cornice-LineBased [345097]
+    6400432: Cornice-LineBased Cornice-LineBased [345204]
+    6400434: Gutter Gutter [351860]
+    6400436: Wall Sweep Cornice [331447]
+    6400438: Wall Sweep Cornice [331468]
+    6400440: Wall Sweep Cornice [332064]
+    6400442: Wall Sweep Cornice [332324]
+    6400444: Wall Sweep Cornice [332325]
+    6400446: Wall Sweep Cornice [332326]
+    6400448: Wall Sweep Cornice [332327]
+    6400450: Wall Sweep Cornice [332328]
+    6400452: Wall Sweep Cornice [332329]
+    6400454: Wall Sweep Cornice [332331]
+    6400456: Wall Sweep Cornice [332332]
+    6400458: Wall Sweep Cornice [332333]
+    6400460: Wall Sweep Cornice [332532]
+    6400462: Wall Sweep Cornice [332576]
+    6400464: Wall Sweep Cornice [343887]
+    6400466: Wall Sweep Cornice [344197]
+    6400468: Wall Sweep Skirting [348823]
+    6400470: Wall Sweep Skirting [349227]
+    6400472: Wall Sweep Skirting [349539]
+    6400474: Wall Sweep Skirting [349540]
+    6400476: Wall Sweep Skirting [349559]
+    6400478: Wall Sweep Skirting [349560]
+    6400480: Wall Sweep Skirting [349769]
+    6400482: Wall Sweep Skirting [349770]
+    6400484: Basic Wall Double brick - 250 [357782]
+    6400486: Basic Wall Double brick - 250 [359693]
+    6400488: Basic Wall Generic 100mm Wall [358367]
+    6400490: Basic Wall Generic 100mm Wall [367216]
+    6400492: Basic Wall Plaster-ensuite [286854]
+    6400494: Sliding Door - 4 Panel (AUS) 3840w [221516]
+    6400496: Wall Sweep Cornice [361677]
+    6400498: Wall Sweep Cornice [362124]
+    6400500: Wall Sweep Cornice [367120]
+    6400502: Wall Sweep Skirting [359785]
+    6400504: Wall Sweep Skirting [362334]
+    6400506: Wall Sweep Skirting [362529]
+    6400508: Wall Sweep Skirting [362530]
+    6400510: Wall Sweep Skirting [364194]
+    6400512: Wall Sweep Skirting [365446]
+    6400514: Wall Sweep Skirting Tile [365391]
+    6400516: M_Single-Flush 0720 x 2040mm [367730]
+    6400518: Wall Sweep Skirting Tile [365446]
+    6400520: Basic Wall Generic 100mm Wall [378398]
+    6400522: Basic Wall Generic 100mm Wall [379971]
+    6400524: Basic Wall Generic 100mm Wall [380482]
+    6400526: Overhead-Sectional 5800 x 2600 x 1981mm 2 [390735]
+    6400528: Wall Sweep Cornice [380627]
+    6400530: Wall Sweep Cornice [380715]
+    6400532: Wall Sweep Skirting [380809]
+    6400534: Wall Sweep Skirting Tile [380871]
+    6400536: Wall Sweep Skirting Tile [380993]
+    6400538: Basic Wall Generic 100mm Wall [380334]
+    6400540: Robe sliders 1820 x 2143mm [384608]
+    6400542: Robe sliders 1820 x 2143mm [384656]
+    6400544: TiltaDoor-Overhead-Sectional 4800 x 2143 [381571]
+    6400546: Wall Sweep Cornice [380488]
+    6400548: Wall Sweep Cornice [380560]
+    6400550: Wall Sweep Cornice [380615]
+    6400552: Wall Sweep Skirting [380406]
+    6400554: Wall Sweep Skirting Tile [380130]
+    6400556: Single_slider 870 x 2040 [389808]
+    6400558: Wall Sweep Skirting Tile [405069]
+    6400560: Wall Sweep Skirting Tile [405167]
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

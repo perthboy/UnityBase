@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6B6A45EE-6D07-82F5-9811-C6BF5CEAA3FA}</ProjectGuid>
+    <ProjectGuid>{41F43A78-BAED-BB48-5711-1CF2F25B15B3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -51,10 +51,6 @@
      <Compile Include="Assets\Editor\Utilities.cs" />
      <Compile Include="Assets\Editor\openFile.cs" />
      <Compile Include="Assets\iTweenPath\Editor\iTweenPathEditor.cs" />
-     <None Include="Assets\_Complete_Home_Interior_Pack\NEKOBOLT_Demo_Packs\Nekobolt_Demo_Packs_Readme.txt" />
-     <None Include="Assets\_Complete_Home_Interior_Pack\NEKOBOLT_Demo_Packs\Survivalist_Health_Pack_DEMO\UAS_SHP_Readme.txt" />
-     <None Include="Assets\_Complete_Home_Interior_Pack\README.txt" />
-     <None Include="Assets\_Complete_Home_Interior_Pack\CHIP_Prefabs\PRE_Ceilings\HSHP_PRE_CEI_Ceiling_preview.txt" />
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
@@ -113,18 +109,18 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="AssetStoreTools">
- <HintPath>/Users/chrishewer/Dropbox/KellyJane/Kelly_House_2 5.3/Assets/AssetStoreTools/Editor/AssetStoreTools.dll</HintPath>
+ <HintPath>/Users/chrishewer/UnityBase/Assets/AssetStoreTools/Editor/AssetStoreTools.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{80476704-EEF4-A8D7-DE10-5407FFA66C77}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{CCC3BF5D-83A7-27C2-E730-A6BFE157E307}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
-      <Project>{E4D2980C-0D06-98E2-5965-1E675CAD9FC6}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
+      <Project>{1B9AA20D-3E89-0146-03E8-A5E9DD50ED2C}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{EF4C1FC4-AF67-B685-022C-F3F2D6BD6D4E}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{A870191A-DFCE-E5D5-B348-232270C81B90}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-UnityScript.unityproj">
-      <Project>{8C56F7C4-93FF-C756-D4A8-4F967EA5B794}</Project>      <Name>Assembly-UnityScript</Name>    </ProjectReference>
+      <Project>{6BD5C16E-8978-6964-C63A-64CE10BB96C8}</Project>      <Name>Assembly-UnityScript</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

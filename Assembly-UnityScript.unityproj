@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8C56F7C4-93FF-C756-D4A8-4F967EA5B794}</ProjectGuid>
+    <ProjectGuid>{6BD5C16E-8978-6964-C63A-64CE10BB96C8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-UnityScript</AssemblyName>
@@ -48,10 +48,6 @@
   <ItemGroup>
      <Compile Include="Assets\_MyScripts\RotateItem.js" />
      <Compile Include="Assets\_MyScripts\RotateObject.js" />
-     <None Include="Assets\_Complete_Home_Interior_Pack\NEKOBOLT_Demo_Packs\Nekobolt_Demo_Packs_Readme.txt" />
-     <None Include="Assets\_Complete_Home_Interior_Pack\NEKOBOLT_Demo_Packs\Survivalist_Health_Pack_DEMO\UAS_SHP_Readme.txt" />
-     <None Include="Assets\_Complete_Home_Interior_Pack\README.txt" />
-     <None Include="Assets\_Complete_Home_Interior_Pack\CHIP_Prefabs\PRE_Ceilings\HSHP_PRE_CEI_Ceiling_preview.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
@@ -76,9 +72,9 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{80476704-EEF4-A8D7-DE10-5407FFA66C77}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{CCC3BF5D-83A7-27C2-E730-A6BFE157E307}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
-      <Project>{E4D2980C-0D06-98E2-5965-1E675CAD9FC6}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
+      <Project>{1B9AA20D-3E89-0146-03E8-A5E9DD50ED2C}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -32,3 +32,11 @@
 **/Icon?
 **/ehthumbs.db
 **/[Tt]humbs.db
+
+# ============ #
+# other stuff #
+# ============ #
+**/*.fbx
+**/*.dwg
+**/*.dgn
+**/[Tt]est/

@@ -1,49 +1,34 @@
-*.bmp
-*.BMP
-*.psd
-*.PSD
-*.tif
-*.TIF
-*.tiff
-*.TIFF
-*.pdf
-*.PDF
-*.ttf
-*.TTF
-*.ZIP
-*.zip
-*.rtf
-#Unity files
-*.cginc
-*.prefab
-*.unity
-*.unity3d
-*.shader
-*.asset
-*.GUISkin
-*.mat
-*.rendertexture
-*.physicmaterial
-*.flare:
-#3D tool files
-*.fbx
-*.FBX
-*.anim
-*.fbm
-*.exr
-*.otf
-*.max
-#Media files
-*.ogg
-*.ogv
-*.raw
-*.wav
-*.WAV
-*.wave
-*.MOV
-*.mov
-#other stuff
-Library/
-Temp/
-*.pidb
-.DS_Store 
+# =============== #
+# Unity generated #
+# =============== #
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild
+**/[Ll]ibrary/
+**/sysinfo.txt
+**/*.stackdump
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+**/[Ee]xported[Oo]bj/
+**/.vs/
+**/*.userprefs
+**/*.csproj
+**/*.pidb
+**/*.suo
+**/*.sln*
+**/*.user
+**/*.unityproj
+**/*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+**/.DS_Store*
+**/._*
+**/.Spotlight-V100
+**/.Trashes
+**/Icon?
+**/ehthumbs.db
+**/[Tt]humbs.db

@@ -53,6 +53,7 @@
      <Compile Include="Assets\_MyScripts\ApplyFinish.cs" />
      <Compile Include="Assets\_MyScripts\CameraHeight.cs" />
      <Compile Include="Assets\_MyScripts\CameraRotation.cs" />
+     <Compile Include="Assets\_MyScripts\CreateMaterialsAsset.cs" />
      <Compile Include="Assets\_MyScripts\Document_IO.cs" />
      <Compile Include="Assets\_MyScripts\FlyOver.cs" />
      <Compile Include="Assets\_MyScripts\GUIControl.cs" />
@@ -63,11 +64,13 @@
      <Compile Include="Assets\_MyScripts\MenuText.cs" />
      <Compile Include="Assets\_MyScripts\Metronome.cs" />
      <Compile Include="Assets\_MyScripts\RotateObject2.cs" />
+     <Compile Include="Assets\_MyScripts\SaveMesh.cs" />
      <Compile Include="Assets\_MyScripts\TP_Camera.cs" />
      <Compile Include="Assets\_MyScripts\TP_Controller.cs" />
      <Compile Include="Assets\_MyScripts\TP_Motor.cs" />
      <Compile Include="Assets\_MyScripts\UpDateCMD.cs" />
      <Compile Include="Assets\_MyScripts\ViewLabeller.cs" />
+     <Compile Include="Assets\_MyScripts\changeColour.cs" />
      <Compile Include="Assets\_MyScripts\scrollingTextArea.cs" />
      <Compile Include="Assets\_MyScripts\scrollingWindow.cs" />
      <Compile Include="Assets\iTweenPath\iTween.cs" />

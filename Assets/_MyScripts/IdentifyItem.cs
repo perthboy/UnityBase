@@ -1,6 +1,10 @@
 using UnityEngine;
 using System.Collections;
 using System;
+
+using UnityEngine.SceneManagement;
+
+using createMaterials;
 [RequireComponent(typeof(MeshCollider))]
 
 //Attach this script to the camera
@@ -16,7 +20,7 @@ public class IdentifyItem : MonoBehaviour
 	public float RotationDegrees = 5;
 	public float distanceFrom = 65.0f;
 	public float speed = 1;
-	private RaycastHit hit;
+	//private RaycastHit hit;
 	public GUISkin guiSkin;
 	public bool doWindow0 = false;
 	public GameObject DaisPrefab;
@@ -31,6 +35,7 @@ public class IdentifyItem : MonoBehaviour
 	private Ray ray = new Ray ();
 	private bool isPrinted = false;
 	//GameObject read = Document_IO.readFile("NewObjectPosition.txt");
+	public Color newColor = Color.green;
 
 	void Awake ()
 	{
@@ -85,6 +90,12 @@ public class IdentifyItem : MonoBehaviour
 			tmp = tmp + lines.ToString () + ",";
 			tmp = tmp + go.transform.parent.localRotation;
 			break;
+		case "changedColour.txt":
+			//string str = hit.collider.gameObject.name;
+			//tmp = go.transform.parent.name + ",";
+			//tmp = tmp + str.ToString () + ",";
+
+			;break;
 		}
 		
 		if (!isPrinted) {
@@ -145,8 +156,26 @@ public class IdentifyItem : MonoBehaviour
 				///identify the object
 				/// 
 				string tmpName = hit.collider.gameObject.name;
+
+				Renderer rend =hit.collider.gameObject.GetComponent(typeof (Renderer)) as Renderer;
+
+
+
+				string colr =  rend.material.color.ToString();
+				Debug.Log("material of selected object is " + colr);
+				Material nMaterial = new Material(Shader.Find("Standard"));
+				nMaterial.color = Color.green;
+				GetComponent<Renderer>().material = nMaterial;
+				rend.sharedMaterial = nMaterial;
+			
+				//writeGOtoFILE ("changedColour.txt", true);
+				createMaterials.CreateMaterials.CreateMaterial(nMaterial);
+
+
+
+				//revised name
 				string[] newname = tmpName.Split('[');
-                Debug.Log(newname[0]);
+
 				ClickedObject = newname[0]; //hit.collider.gameObject.name;
 				///check for object layer
 				if (hit.collider.gameObject.layer == moveLayer) {
@@ -200,4 +229,15 @@ public class IdentifyItem : MonoBehaviour
 		go.transform.position = newPos;
 		
 	}
+
+
+
+	void resetScene()
+	{
+		Scene currScene = SceneManager.GetActiveScene();
+		string sceneName =  currScene.name;
+		SceneManager.LoadSceneAsync(sceneName);
+		Debug.Log("Scene Reset");
+	}
+
 }

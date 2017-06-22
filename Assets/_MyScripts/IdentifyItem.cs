@@ -158,8 +158,9 @@ public class IdentifyItem : MonoBehaviour
 				string tmpName = hit.collider.gameObject.name;
 
 				Renderer rend =hit.collider.gameObject.GetComponent(typeof (Renderer)) as Renderer;
+				GameObject CP = GameObject.Find("ColorPickerPrefab");;
 
-
+				GameObject Pic  = Instantiate ( CP, hit.point, Quaternion.LookRotation (hit.normal)) as GameObject;
 
 				string colr =  rend.material.color.ToString();
 				Debug.Log("material of selected object is " + colr);

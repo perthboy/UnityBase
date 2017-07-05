@@ -5,6 +5,8 @@ using System;
 using UnityEngine.SceneManagement;
 
 using createMaterials;
+using ChangeTheColor;
+
 [RequireComponent(typeof(MeshCollider))]
 
 //Attach this script to the camera
@@ -36,6 +38,10 @@ public class IdentifyItem : MonoBehaviour
 	private bool isPrinted = false;
 	//GameObject read = Document_IO.readFile("NewObjectPosition.txt");
 	public Color newColor = Color.green;
+
+	//used to change element colors
+	ChangeTheColor.ChangeColor  newcolor= new ChangeColor();
+
 
 	void Awake ()
 	{
@@ -158,19 +164,24 @@ public class IdentifyItem : MonoBehaviour
 				string tmpName = hit.collider.gameObject.name;
 
 				Renderer rend =hit.collider.gameObject.GetComponent(typeof (Renderer)) as Renderer;
-				GameObject CP = GameObject.Find("ColorPickerPrefab");;
+				//GameObject CP = GameObject.Find("ColorPickerPrefab");;
 
-				GameObject Pic  = Instantiate ( CP, hit.point, Quaternion.LookRotation (hit.normal)) as GameObject;
+				//GameObject Pic  = Instantiate ( CP, hit.point, Quaternion.LookRotation (hit.normal)) as GameObject;
 
 				string colr =  rend.material.color.ToString();
 				Debug.Log("material of selected object is " + colr);
 				Material nMaterial = new Material(Shader.Find("Standard"));
-				nMaterial.color = Color.green;
+
+
+				//try this class to get color from colorpicker
+				//nMaterial.color = Color.cyan;
+				nMaterial.color = newcolor.color;
 				GetComponent<Renderer>().material = nMaterial;
 				rend.sharedMaterial = nMaterial;
 			
 				//writeGOtoFILE ("changedColour.txt", true);
-				createMaterials.CreateMaterials.CreateMaterial(nMaterial);
+				//TODO: save a new material to a different name
+				//createMaterials.CreateMaterials.CreateMaterial(nMaterial);
 
 
 

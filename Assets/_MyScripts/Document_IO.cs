@@ -15,7 +15,7 @@ public class Document_IO : MonoBehaviour
 	{
 		//System.IO.StreamWriter file = new System.IO.StreamWriter (@"C:\temp\xmlOutput.txt", true);
 		string path;
-		path= @"/Users/chrishewer/" + Filename;
+		path= @"/Users/VDC/Documents/tmp/" + Filename;
 		System.IO.StreamWriter filename = new System.IO.StreamWriter (path, true);
 		if (newline)
 			filename.WriteLine (lines);
@@ -27,7 +27,7 @@ public class Document_IO : MonoBehaviour
 	public static void readFile (string Filename)
 	{
 		string path;
-		path= @"/Users/chrishewer/" + Filename;
+		path= @"/Users/VDC/Documents/tmp/" + Filename;
 		
 		using (StreamReader sr = new StreamReader (path)) {
 			string line;

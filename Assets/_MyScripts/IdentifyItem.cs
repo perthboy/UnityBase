@@ -106,7 +106,31 @@ public class IdentifyItem : MonoBehaviour
 		
 		if (!isPrinted) {
 			Document_IO.writeFile (Filename, tmp, newline);
-			isPrinted = true;
+			//isPrinted = true;
+		}
+	}
+	void writeGOtoFILE (string Filename, string content, bool newline)
+	{
+		string tmp = "";
+
+		switch (Filename) {
+		case "NewObjectPosition.txt":
+			Vector3 lines = go.transform.parent.localPosition;
+			tmp = go.transform.parent.name + ",";
+			tmp = tmp + lines.ToString () + ",";
+			tmp = tmp + go.transform.parent.localRotation;
+			break;
+		case "changedColour.txt":
+			//string str = hit.collider.gameObject.name;
+			//tmp = go.transform.parent.name + ",";
+			//tmp = tmp + str.ToString () + ",";
+			tmp=content;
+			;break;
+		}
+
+		if (!isPrinted) {
+			Document_IO.writeFile (Filename, tmp,newline);
+			//isPrinted = true;
 		}
 	}
 	void OnGUI ()
@@ -169,20 +193,20 @@ public class IdentifyItem : MonoBehaviour
 				//GameObject Pic  = Instantiate ( CP, hit.point, Quaternion.LookRotation (hit.normal)) as GameObject;
 
 				string colr =  rend.material.color.ToString();
-				Debug.Log("material of selected object is " + colr);
+				writeGOtoFILE ("changedColour.txt","old color = " + colr.ToString(), true);
 				Material nMaterial = new Material(Shader.Find("Standard"));
 
 
 				//try this class to get color from colorpicker
-				//nMaterial.color = Color.cyan;
 				nMaterial.color = ChangeTheColor.UtilityClass.ChangeColor ;
-				//Debug.Log (color.ToString ());
+
+
 				GetComponent<Renderer>().material = nMaterial;
 				rend.sharedMaterial = nMaterial;
-			
-				//writeGOtoFILE ("changedColour.txt", true);
-				//TODO: save a new material to a different name
-				//createMaterials.CreateMaterials.CreateMaterial(nMaterial);
+				isPrinted = false;
+				writeGOtoFILE ("changedColour.txt","new color = " + nMaterial.color.ToString(), true);
+					//TODO: save a new material to a different name
+					//createMaterials.CreateMaterials.CreateMaterial(nMaterial);
 
 
 

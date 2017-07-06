@@ -40,7 +40,7 @@ public class IdentifyItem : MonoBehaviour
 	public Color newColor = Color.green;
 
 	//used to change element colors
-	ChangeTheColor.ChangeColor  newcolor= new ChangeColor();
+	//ChangeTheColor.ChangeColor  newcolor= new ChangeColor();
 
 
 	void Awake ()
@@ -175,7 +175,8 @@ public class IdentifyItem : MonoBehaviour
 
 				//try this class to get color from colorpicker
 				//nMaterial.color = Color.cyan;
-				nMaterial.color = newcolor.color;
+				nMaterial.color = ChangeTheColor.UtilityClass.ChangeColor ;
+				//Debug.Log (color.ToString ());
 				GetComponent<Renderer>().material = nMaterial;
 				rend.sharedMaterial = nMaterial;
 			

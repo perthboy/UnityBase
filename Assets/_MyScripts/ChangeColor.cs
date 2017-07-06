@@ -4,21 +4,13 @@ using System.Collections;
 
 namespace ChangeTheColor
 {
-public  class ChangeColor 
+	public class UtilityClass
 	{
-
-		Color col;
-		public Color color
-		{
-			get
-			{
-				return this.col;
-			}
-			set
-			{
-				this.col = value;
-			}
+		static public Color ChangeColor {
+			get;
+			set;
 		}
+
 	}
 }
 

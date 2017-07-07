@@ -14,12 +14,12 @@ namespace createMaterials
 		[MenuItem ("GameObject/Create Material")]
 
 
-		public static void CreateMaterial (Material newMat)
+		public static void CreateMaterial (Material newMat, string name)
 		{
 			// Create a simple material asset
 			counter ++;
 			//Material material = new Material (Shader.Find ("Specular"));
-			AssetDatabase.CreateAsset (newMat, "Assets/MyMaterials CustomMat" + counter + ".mat");
+			AssetDatabase.CreateAsset (newMat, "Assets/MyMaterials " + name + ".mat");
 			string path =  "Assets/" + newMat.ToString () + ".mat";
 			// Print the path of the created asset
 			Debug.Log (AssetDatabase.GetAssetPath (newMat));

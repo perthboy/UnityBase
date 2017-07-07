@@ -46,6 +46,7 @@ public class IdentifyItem : MonoBehaviour
 	void Awake ()
 	{
 		labelOn = false;
+		ChangeTheColor.extractColorFromString.readColorFile ("changedColour.txt");
 	}
 	void Update ()
 	{
@@ -177,12 +178,13 @@ public class IdentifyItem : MonoBehaviour
 		
 		
 		//Returns true during the frame the user touches the object
-		if (Input.GetButtonUp ("Identify")) {
+		if (Input.GetButtonUp ("Identify")) 
+		{
 			
 			if (Physics.Raycast (ray, out hit)) {
 				float lockPos = 0f;
 				//show name of hit item
-				Debug.Log (hit.collider.gameObject.name);
+				//Debug.Log (hit.collider.gameObject.name);
 				///identify the object
 				/// 
 				string tmpName = hit.collider.gameObject.name;
@@ -193,7 +195,7 @@ public class IdentifyItem : MonoBehaviour
 				//GameObject Pic  = Instantiate ( CP, hit.point, Quaternion.LookRotation (hit.normal)) as GameObject;
 
 				string colr =  rend.material.color.ToString();
-				writeGOtoFILE ("changedColour.txt","old color = " + colr.ToString(), true);
+				writeGOtoFILE ("changedColour.txt",hit.transform.ToString() + " old color= " + colr.ToString(), true);
 				Material nMaterial = new Material(Shader.Find("Standard"));
 
 
@@ -204,7 +206,7 @@ public class IdentifyItem : MonoBehaviour
 				GetComponent<Renderer>().material = nMaterial;
 				rend.sharedMaterial = nMaterial;
 				isPrinted = false;
-				writeGOtoFILE ("changedColour.txt","new color = " + nMaterial.color.ToString(), true);
+				writeGOtoFILE ("changedColour.txt",hit.transform.ToString() + " new color = " + nMaterial.color.ToString(), true);
 					//TODO: save a new material to a different name
 					//createMaterials.CreateMaterials.CreateMaterial(nMaterial);
 
